@@ -61,7 +61,6 @@ include_once 'head.php'
 
 
                     </p>
-                    <a href="#find-out-more" class="btn-default-round scroll-animate">Find Out More</a>
                 </div>
             </div>
         </div>
