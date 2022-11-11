@@ -537,8 +537,15 @@ div.radios-wrap{
     background-size: cover;
     background-position: center;
 }
-.ship-img{
-    background-image: linear-gradient(to right, rgba(255,255,255,0.75), rgba(255,255,255,0.75)), url("../img/1IGS Logistics.jpg");
+.mission-bg{
+    background-image: url("../img/about/mission.jpg");
+}
+.values-bg{
+    background-image: url("../img/about/values.jpg");
+    background-position: center right;
+}
+.corporate-bg{
+    background-image: url("../img/about/vision.jpg");
 }
 .policy-section h5{
     margin-bottom: 5px !important;
@@ -547,6 +554,39 @@ div.radios-wrap{
 .policy-section h6{
     margin-bottom: 10px !important;
     font-weight: 600;
+}
+.team-card-wrap{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    margin-left: -6px;
+    padding: 10px;
+}
+.team-card{
+    padding: 5px;
+    border: 1px solid #dcdcdc;
+    transition: all 0.3s;
+    border-radius: 5px;
+    background: #f4f4f4;
+}
+.team-card:hover{
+    box-shadow: 0 0 20px 2px rgba(241,98,49, 0.3);
+}
+.team-img{
+    overflow: hidden;
+}
+.team-img img{
+    transition: all 0.3s;
+    height: 250px;
+    object-fit: cover;
+    object-position: top center;
+}
+.team-card:hover img{
+    transform: scale(1.1);
+}
+.team-text{
+    padding: 20px 10px;
+    height: 150px;
 }
 
 
