@@ -464,7 +464,7 @@ div.radios-wrap{
     position: relative;
 }
 .page-hero-container.about{
-    background-image: linear-gradient(to right, rgba(255,255,255,0.15), rgba(255,255,255,0.15)), url("../img/Homepage/multi-truck.jpg");
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/about/about.jpg");
 }
 .page-text-wrap{
     position: absolute;
@@ -532,10 +532,9 @@ div.radios-wrap{
     /*color: #cc262b;*/
 }
 .igs-africa{
-    background-image: linear-gradient(to right, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../img/1igs-africa.jpg");
-    background-attachment: fixed;
+    background-image: url("../img/1igs-africa.jpg");
     background-size: cover;
-    background-position: center;
+    background-position: center bottom;
 }
 .mission-bg{
     background-image: url("../img/about/mission.jpg");
@@ -744,7 +743,7 @@ div.radios-wrap{
 
 
 .page-banner{
-    height: 400px;
+    height: 75vh;
     position: relative;
     background-size: cover;
 }
@@ -1102,6 +1101,114 @@ div.radios-wrap{
     padding: 30px;
 }
 
+/*Enterprise*/
+.af-banner{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/af-bg.jpg");
+    background-position: center;
+}
+.sf-banner{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/sf-bg.jpg");
+    background-position: center;
+}
+.gf-banner{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/gf-bg.jpg");
+    background-position: center;
+}
+.rf-banner{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/rf-bg.jpg");
+    background-position: center;
+}
+.cc-banner{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/cc-banner.jpg");
+    background-position: center;
+}
+.crates-banner{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/crates-bg.jpg");
+    background-position: center;
+}
+.fa-banner{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/fa-bg.jpg");
+    background-position: center;
+}
+.af-img{
+    background-image: url("../img/air-fright.jpg");
+    background-position: top right;
+}
+.af-bg-2{
+    background-image: url("../img/af-bg-2.jpg");
+    background-position: top right;
+}
+.sf-bg-2{
+    background-image: url("../img/sf-bg-2.jpg");
+    background-position: left center;
+}
+.sf-img{
+    background-image: url("../img/sea-freight.jpg");
+}
+.rf-img{
+    background-image: url("../img/road-freight.jpg");
+}
+.gf-img{
+    background-image: url("../img/general-freight.jpg");
+}
+.gf-bg-3{
+    background-image: url("../img/gf-bg-3.jpg");
+}
+.cc{
+    background-image: url("../img/cc-bg.jpg");
+}
+.pc{
+    background-image: url("../img/pc.jpg");
+}
+.mm{
+    background-image: url("../img/mm.jpg");
+}
+.fa-img{
+    background-image: url("../img/fa1.jpg");
+    background-position: right center;
+}
+.fa-img-2{
+    background-image: url("../img/fa-2.jpg");
+}
+.fa-img-3{
+    background-image: url("../img/fa3.jpg");
+}
+.box3{
+    background-image: url("../img/box3.jpg");
+}
+.m-banner{
+    background-image: url("../img/m-banner.jpg");
+    background-position: center;
+}
+.m-img{
+    background-image: url("../img/m-bg.jpg");
+}
+.m-1-bg{
+    background-image: url("../img/m1.jpg");
+    background-position: left center;
+}
+.m-2-bg{
+    background-image: url("../img/m-2.jpg");
+}
+.m-3-bg{
+    background-image: url("../img/m-3.jpg");
+}
+.m-4-bg{
+    background-image: url("../img/m-4.jpg");
+    background-position: right center;
+}
+.m-5-bg{
+    background-image: url("../img/m5.jpg");
+}
+.grid-text-section{
+    padding: 50px;
+    text-align: left;
+}
+.content-grid h5{
+    font-weight: bold;
+    margin-bottom: 10px !important;
+    text-align: center;
+}
 
 /*Footer*/
 footer{
@@ -1240,7 +1347,14 @@ footer p{
 
 
 .dropdown-icon{
-    display: none;
+    /*display: none;*/
+    position: absolute;
+    right: 15px;
+    top: 0;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    font-size: 12px;
 }
 
 @media screen and (max-width: 991px) {
