@@ -2,21 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c831f0fa-c8eb-4b01-9e20-2d917a5abd64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/schedule-and-manage-pickups.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Any packed items can also be shipped .jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Any packed items can also be shipped .jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Best in class packing assistance.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Best in class packing assistance.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Boxes available in-store.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Boxes available in-store.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Custom wooden cases and packing crates 1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Custom wooden cases and packing crates 1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Cuts down your stress.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Cuts down your stress.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Freight packing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Freight packing.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/On Get the APP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/On Get the APP.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Our pick and pack fulfilment service.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Our pick and pack fulfilment service.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Packing supplies.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Packing supplies.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Pick &amp; ship servoces.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Pick &amp; ship servoces.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Quick reference stock figures .jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Quick reference stock figures .jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/Simplifies your shipping planning .jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/Simplifies your shipping planning .jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/packing/We ensure product delivery.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/packing/We ensure product delivery.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,14 +69,14 @@
         <counts>
           <entry key="css" value="655" />
           <entry key="html" value="101" />
-          <entry key="php" value="2532" />
+          <entry key="php" value="2628" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="655" />
           <entry key="HTML" value="101" />
-          <entry key="PHP" value="2532" />
+          <entry key="PHP" value="2628" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -140,11 +125,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule-and-manage-pickups.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+            <state relative-caret-position="507">
+              <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -161,20 +146,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nav.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-373">
-              <caret line="137" column="37" lean-forward="true" selection-start-line="137" selection-start-column="37" selection-end-line="137" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nav1.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="201" column="84" selection-start-line="201" selection-start-column="84" selection-end-line="201" selection-end-column="84" />
+            <state relative-caret-position="187">
+              <caret line="197" column="62" lean-forward="true" selection-start-line="197" selection-start-column="62" selection-end-line="197" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -285,9 +261,9 @@
         <option value="$PROJECT_DIR$/packing.php" />
         <option value="$PROJECT_DIR$/drop-off-package.php" />
         <option value="$PROJECT_DIR$/manage-return.php" />
-        <option value="$PROJECT_DIR$/nav.php" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/schedule-and-manage-pickups.php" />
+        <option value="$PROJECT_DIR$/nav.php" />
       </list>
     </option>
   </component>
@@ -400,7 +376,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158132000" />
+    <option name="totallyTimeSpent" value="160099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="846" extended-state="6" />
@@ -636,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nav1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="201" column="84" selection-start-line="201" selection-start-column="84" selection-end-line="201" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/packing-cases-and-crates.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
@@ -677,13 +646,6 @@
     <entry file="file://$PROJECT_DIR$/assets/img/packing/Our pick and pack fulfilment service.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-373">
-          <caret line="137" column="37" lean-forward="true" selection-start-line="137" selection-start-column="37" selection-end-line="137" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -710,8 +672,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/schedule-and-manage-pickups.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        <state relative-caret-position="507">
+          <caret line="86" column="67" selection-start-line="86" selection-start-column="67" selection-end-line="86" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="198" column="46" lean-forward="true" selection-end-line="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="197" column="62" lean-forward="true" selection-start-line="197" selection-start-column="62" selection-end-line="197" selection-end-column="62" />
         </state>
       </provider>
     </entry>

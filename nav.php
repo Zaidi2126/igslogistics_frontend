@@ -37,10 +37,11 @@
                     </button>
                     <ul class="nav-dropdown" id="drop-2">
                         <li><a href="ship-now.php" class="nav-link">Create a Shipment</a></li>
-                        <li><a href="get-a-quote.php" class="nav-link">Get a Quote</a></li>
-                        <li><a href="schedule-and-manage-pickups.php" class="nav-link">Schedule & Manage Pickups</a></li>
+                        <li><a href="#" class="nav-link">Shipping Rates & Delivery</a></li>
+                        <li><a href="#" class="nav-link">Schedule & Manage Pickups</a></li>
                         <li><a href="packing.php" class="nav-link">Packing & Shipping</a></li>
-                        <li><a href="manage-return.php" class="nav-link">Manage Return</a></li>
+                        <li><a href="#" class="nav-link">Manage Return</a></li>
+                        <li><a href="get-a-quote.php" class="nav-link">Get a Quote</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
@@ -52,7 +53,7 @@
                         <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
                     </button>
                     <ul class="nav-dropdown" id="drop-2">
-                        <li><a href="drop-off-package.php" class="nav-link">Drop off a Package</a></li>
+                        <li><a href="#" class="nav-link">Drop off a Package</a></li>
                         <li><a href="#" class="nav-link">Find 1IGS Locations</a></li>
                     </ul>
                 </li>
@@ -110,7 +111,7 @@
                                     <a href="#" class="nav-link">Conference & Exhibition </a>
                                 </li>
                                 <li>
-                                    <a href="#" class="nav-link">Fine Arts</a>
+                                    <a href="fine-art.php" class="nav-link">Fine Arts</a>
                                 </li>
                             </ul>
                         </li>
@@ -131,7 +132,7 @@
                                     <a href="#" class="nav-link">Project Cargo</a>
                                 </li>
                                 <li>
-                                    <a href="#" class="nav-link">Mining & Infrastructure</a>
+                                    <a href="mining.php" class="nav-link">Mining & Infrastructure</a>
                                 </li>
                                 <li>
                                     <a href="#" class="nav-link">Consumer Goods & Retail</a>
@@ -168,16 +169,51 @@
                         <li><a href="contact-us.php" class="nav-link">Contact Us</a></li>
                     </ul>
                 </li>
-                <li class="ml-lg-5 sign-btn-wrap">
-                    <a href="sign-in.php" class="nav-link sign-in-link">
-                        <span>Sign In</span>
-                    </a><span class="text-red or">OR</span>
-                    <a href="sign-up.php" class="nav-link sign-in-link nav-sign-up">
-                        <span>Sign Up</span>
-                    </a>
-                </li>
+                <!--                <li class="ml-lg-5 sign-btn-wrap">-->
+                <!--                    <a href="sign-in.php" class="nav-link sign-in-link">-->
+                <!--                        <span>Sign In</span>-->
+                <!--                    </a><span class="text-red or">OR</span>-->
+                <!--                    <a href="sign-up.php" class="nav-link sign-in-link nav-sign-up">-->
+                <!--                        <span>Sign Up</span>-->
+                <!--                    </a>-->
+                <!--                </li>-->
             </ul>
         </div>
     </nav>
 </div>
 
+
+<div class="nav-container" id="nav-top">
+    <nav class="navbar navbar-expand-lg navbar-dark" id="nav">
+        <div>
+        </div>
+        <div class="d-lg-none">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
+                    aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fa fa-bars"></i>
+            </button>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav ml-auto align-items-center">
+                <li class="position-relative">
+                    <button class="nav-link nav-t-link drop-button2">
+                        <span>Sign in</span>
+                        <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
+                    </button>
+                    <ul class="nav-dropdown">
+                        <li><a href="sign-in.php" class="nav-link">My 1IGS +</a></li>
+                        <li><a href="sign-in.php" class="nav-link">My Supply Chain</a></li>
+                        <li><a href="sign-in.php" class="nav-link">1IGS Same Day</a></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="sign-up.php" class="nav-link nav-t-link">Sign Up</a>
+                </li>
+                <li>
+                    <a href="#" class="nav-link nav-t-link"><i class="fa fa-search"></i></a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
