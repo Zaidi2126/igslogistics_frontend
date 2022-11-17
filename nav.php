@@ -39,16 +39,23 @@
                         <li><a href="ship-now.php" class="nav-link">Create a Shipment</a></li>
                         <li><a href="#" class="nav-link">Shipping Rates & Delivery</a></li>
                         <li><a href="#" class="nav-link">Schedule & Manage Pickups</a></li>
-                        <li><a href="#" class="nav-link">Packing & Shipping</a></li>
-                        <li><a href="#" class="nav-link">Manage Return</a></li>
+                        <li><a href="packing.php" class="nav-link">Packing & Shipping</a></li>
+                        <li><a href="manage-return.php" class="nav-link">Manage Return</a></li>
                         <li><a href="get-a-quote.php" class="nav-link">Get a Quote</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
                     <a href="track.php" class="nav-link">Track</a>
                 </li>
-                <li class="nav-item">
-                    <a href="#" class="nav-link">Locations</a>
+                <li class="position-relative">
+                    <button class="nav-link drop-button2">
+                        <span>Locations</span>
+                        <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
+                    </button>
+                    <ul class="nav-dropdown" id="drop-2">
+                        <li><a href="drop-off-package.php" class="nav-link">Drop off a Package</a></li>
+                        <li><a href="#" class="nav-link">Find 1IGS Locations</a></li>
+                    </ul>
                 </li>
                 <li class="position-relative">
                     <button class="nav-link drop-button2">
@@ -62,7 +69,7 @@
                 </li>
                 <li class="position-relative">
                     <button class="nav-link drop-btn">
-                        <span>Enterprise Logistic Services</span>
+                        <span>Solutions</span>
                         <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
                     </button>
                     <ul class="nav-dropdown">

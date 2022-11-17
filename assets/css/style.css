@@ -71,8 +71,20 @@ img {
 }
 
 /*Navbar*/
-.nav-container{
+#nav-top{
     z-index: 1030;
+    transition: all 0.5s;
+    background: #F16231;
+    position: fixed;
+    width: 100%;
+    top: 70px;
+    left: 0;
+}
+.nav-link.nav-t-link{
+    color: white !important;
+}
+.nav-container{
+    z-index: 1031;
     transition: all 0.5s;
     background: white;
     position: fixed;
@@ -110,7 +122,7 @@ img {
 }
 .sticky {
 
-    padding: 4px 1rem;
+    /*padding: 4px 1rem;*/
     box-shadow: 0 0 20px 2px rgba(241,98,49, 0.3);
 }
 
@@ -194,9 +206,9 @@ ul li ul:hover {
 
 /*Banner*/
 .hero-container{
-    background-image: linear-gradient(to right, rgba(16, 26, 48,0.7), rgba(0,0,0,.5)) ,url("../img/van.jpg");
+    background-image: linear-gradient(to right, rgba(16, 26, 48,0.5), rgba(0,0,0,.6)) ,url("../img/Homepage/home-banner-bg.jpg");
     background-size: cover;
-    background-position: center left;
+    background-position: center top;
     height: 100vh;
     position: relative;
 }
@@ -421,10 +433,10 @@ div.radios-wrap{
     text-align: right;
 }
 .manage-delivery-1{
-    background-image: url("../img/Homepage/6.jpg");
+    background-image: url("../img/Homepage/home-2.jpg");
 }
 .manage-delivery-2{
-    background-image: url("../img/Homepage/7.jpg");
+    background-image: url("../img/Homepage/home-3.jpg");
 }
 .manage-delivery-3{
     background-image: url("../img/Homepage/drop-off.jpg");
@@ -743,7 +755,7 @@ div.radios-wrap{
 
 
 .page-banner{
-    height: 75vh;
+    height: 550px;
     position: relative;
     background-size: cover;
 }
@@ -1118,6 +1130,10 @@ div.radios-wrap{
     background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/rf-bg.jpg");
     background-position: center;
 }
+.p-banner{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/packing/9.jpg");
+    background-position: center;
+}
 .cc-banner{
     background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/cc-banner.jpg");
     background-position: center;
@@ -1209,6 +1225,21 @@ div.radios-wrap{
     margin-bottom: 10px !important;
     text-align: center;
 }
+.p-bg{
+    background-image: url("../img/packing/On Get the APP.jpg");
+    background-position: right top;
+    background-size: cover;
+    padding: 50px;
+}
+.p-text{
+    padding: 50px;
+    background: rgba(255,255,255,0.8);
+    max-width: 400px;
+}
+
+
+
+
 
 /*Footer*/
 footer{
@@ -1355,6 +1386,15 @@ footer p{
     display: flex;
     align-items: center;
     font-size: 12px;
+}
+.custom-wooden{
+    background-image: url("../img/packing/Custom wooden cases and packing crates 1.jpg");
+}
+.packing-img-2{
+    background-image: url("../img/packing/Any packed items can also be shipped .jpg");
+}
+.packing-img-3{
+    background-image: url("../img/packing/Simplifies your shipping planning .jpg");
 }
 
 @media screen and (max-width: 991px) {
