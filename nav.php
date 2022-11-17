@@ -37,11 +37,10 @@
                     </button>
                     <ul class="nav-dropdown" id="drop-2">
                         <li><a href="ship-now.php" class="nav-link">Create a Shipment</a></li>
-                        <li><a href="#" class="nav-link">Shipping Rates & Delivery</a></li>
-                        <li><a href="#" class="nav-link">Schedule & Manage Pickups</a></li>
+                        <li><a href="get-a-quote.php" class="nav-link">Get a Quote</a></li>
+                        <li><a href="schedule-and-manage-pickups.php" class="nav-link">Schedule & Manage Pickups</a></li>
                         <li><a href="packing.php" class="nav-link">Packing & Shipping</a></li>
                         <li><a href="manage-return.php" class="nav-link">Manage Return</a></li>
-                        <li><a href="get-a-quote.php" class="nav-link">Get a Quote</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
@@ -111,7 +110,7 @@
                                     <a href="#" class="nav-link">Conference & Exhibition </a>
                                 </li>
                                 <li>
-                                    <a href="fine-art.php" class="nav-link">Fine Arts</a>
+                                    <a href="#" class="nav-link">Fine Arts</a>
                                 </li>
                             </ul>
                         </li>
@@ -132,7 +131,7 @@
                                     <a href="#" class="nav-link">Project Cargo</a>
                                 </li>
                                 <li>
-                                    <a href="mining.php" class="nav-link">Mining & Infrastructure</a>
+                                    <a href="#" class="nav-link">Mining & Infrastructure</a>
                                 </li>
                                 <li>
                                     <a href="#" class="nav-link">Consumer Goods & Retail</a>
