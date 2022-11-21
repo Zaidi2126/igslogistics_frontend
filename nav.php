@@ -31,43 +31,6 @@
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav ml-auto align-items-center">
                 <li class="position-relative">
-                    <button class="nav-link drop-button2">
-                        <span>Shipping</span>
-                        <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
-                    </button>
-                    <ul class="nav-dropdown" id="drop-2">
-                        <li><a href="ship-now.php" class="nav-link">Create a Shipment</a></li>
-                        <li><a href="#" class="nav-link">Shipping Rates & Delivery</a></li>
-                        <li><a href="#" class="nav-link">Schedule & Manage Pickups</a></li>
-                        <li><a href="packing.php" class="nav-link">Packing & Shipping</a></li>
-                        <li><a href="#" class="nav-link">Manage Return</a></li>
-                        <li><a href="get-a-quote.php" class="nav-link">Get a Quote</a></li>
-                    </ul>
-                </li>
-                <li class="nav-item">
-                    <a href="track.php" class="nav-link">Track</a>
-                </li>
-                <li class="position-relative">
-                    <button class="nav-link drop-button2">
-                        <span>Locations</span>
-                        <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
-                    </button>
-                    <ul class="nav-dropdown" id="drop-2">
-                        <li><a href="#" class="nav-link">Drop off a Package</a></li>
-                        <li><a href="#" class="nav-link">Find 1IGS Locations</a></li>
-                    </ul>
-                </li>
-                <li class="position-relative">
-                    <button class="nav-link drop-button2">
-                        <span>Aviation</span>
-                        <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
-                    </button>
-                    <ul class="nav-dropdown" id="drop-2">
-                        <li><a href="#" class="nav-link">Private Plane Charter</a></li>
-                        <li><a href="#" class="nav-link">Cargo, Government & Humanitarian Charter</a></li>
-                    </ul>
-                </li>
-                <li class="position-relative">
                     <button class="nav-link drop-btn">
                         <span>Solutions</span>
                         <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
@@ -160,15 +123,42 @@
                     </ul>
                 </li>
                 <li class="position-relative">
-                    <button class="nav-link drop-button3">
-                        <span>Support</span>
+                    <button class="nav-link drop-button2">
+                        <span>Shipping</span>
                         <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
                     </button>
-                    <ul class="nav-dropdown" id="drop-3">
-                        <li><a href="#" class="nav-link">Customer Service</a></li>
-                        <li><a href="contact-us.php" class="nav-link">Contact Us</a></li>
+                    <ul class="nav-dropdown" id="drop-2">
+                        <li><a href="ship-now.php" class="nav-link">Create a Shipment</a></li>
+                        <li><a href="get-a-quote.php" class="nav-link">Shipping Rates & Delivery</a></li>
+                        <li><a href="schedule-and-manage-pickups.php" class="nav-link">Schedule & Manage Pickups</a></li>
+                        <li><a href="packing.php" class="nav-link">Packing & Shipping</a></li>
+                        <li><a href="manage-return.php" class="nav-link">Manage Return</a></li>
                     </ul>
                 </li>
+                <li class="nav-item">
+                    <a href="track.php" class="nav-link">Track</a>
+                </li>
+                <li class="position-relative">
+                    <button class="nav-link drop-button2">
+                        <span>Locations</span>
+                        <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
+                    </button>
+                    <ul class="nav-dropdown" id="drop-2">
+                        <li><a href="drop-off-package.php" class="nav-link">Drop off a Package</a></li>
+                        <li><a href="#" class="nav-link">Find 1IGS Locations</a></li>
+                    </ul>
+                </li>
+                <li class="position-relative">
+                    <button class="nav-link drop-button2">
+                        <span>Aviation</span>
+                        <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
+                    </button>
+                    <ul class="nav-dropdown" id="drop-2">
+                        <li><a href="#" class="nav-link">Private Plane Charter</a></li>
+                        <li><a href="#" class="nav-link">Cargo, Government & Humanitarian Charter</a></li>
+                    </ul>
+                </li>
+
                 <!--                <li class="ml-lg-5 sign-btn-wrap">-->
                 <!--                    <a href="sign-in.php" class="nav-link sign-in-link">-->
                 <!--                        <span>Sign In</span>-->
@@ -183,10 +173,15 @@
 </div>
 
 
-<div class="nav-container" id="nav-top">
-    <nav class="navbar navbar-expand-lg navbar-dark" id="nav">
-        <div>
-        </div>
+<div class="d-none d-lg-block" id="nav-top">
+    <nav class="navbar navbar-expand-lg navbar-dark h-100" id="nav">
+<!--        <div>-->
+<!--            <form>-->
+<!--                <div class="nav-top-search">-->
+<!--                    <input class="form-control nt-search" type="search" placeholder="search">-->
+<!--                </div>-->
+<!--            </form>-->
+<!--        </div>-->
         <div class="d-lg-none">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
                     aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -196,6 +191,11 @@
 
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav ml-auto align-items-center">
+                <li>
+                    <a href="#" class="nav-link nav-t-link">
+                        <i class="fa fa-search"></i>
+                    </a>
+                </li>
                 <li class="position-relative">
                     <button class="nav-link nav-t-link drop-button2">
                         <span>Sign in</span>
@@ -210,8 +210,15 @@
                 <li>
                     <a href="sign-up.php" class="nav-link nav-t-link">Sign Up</a>
                 </li>
-                <li>
-                    <a href="#" class="nav-link nav-t-link"><i class="fa fa-search"></i></a>
+                <li class="position-relative">
+                    <button class="nav-link drop-button3 nav-t-link">
+                        <span>Support</span>
+                        <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
+                    </button>
+                    <ul class="nav-dropdown" id="drop-3">
+                        <li><a href="#" class="nav-link">Customer Service</a></li>
+                        <li><a href="contact-us.php" class="nav-link">Contact Us</a></li>
+                    </ul>
                 </li>
             </ul>
         </div>

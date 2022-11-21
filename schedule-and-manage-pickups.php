@@ -11,7 +11,7 @@ include_once 'head.php'
 include_once 'nav.php'
 ?>
 
-<div class="p-banner page-banner">
+<div class="pickup-banner page-banner">
     <div class="page-banner-abs">
         <div class="page-banner-text-wrap">
             Schedule & Manage Pickups
@@ -23,12 +23,12 @@ include_once 'nav.php'
 <div class="section">
     <div class="container">
         <h2 class="default-heading text-red">
-            1IGS pickup options
+            1IGS Pickup options
         </h2>
         <p class="mb-5 text-center">
-            Need an easy way to ship your packages during the busy holiday season? You have plenty of options to get
-            your shipments
-            to us. No need to wait for a pickup—you can drop off packages at thousands of locations nationwide.
+            Ship your package whenever you want and wherever you are. There are a variety of options
+            available to get your shipments to us on time. Busy with work, holiday or family gathering?
+            No need to wait for a collection – drop it off at one of our offices or partners nationwide.
         </p>
         <div class="text-center">
             <a href="get-a-quote.php" class="btn-default-round">Schedule Pickups</a>
@@ -42,49 +42,104 @@ include_once 'nav.php'
             <div class="col-lg-4">
                 <div class="grid-section">
                     <div class="grid-img">
-                        <img src="assets/img/packing/Packing%20supplies.jpg" alt="">
+                        <img src="assets/img/pickups/track.jpg" alt="">
                     </div>
-                    <h4>ONE-TIME PICKUP</h4>
-                    <p>
-                        Save time and effort by
-                        scheduling a convenient
-                        pickup online.
-                    </p>
-                </div>
-                <div class="grid-btn-wrap">
-                    <a href="#" class="btn-default-round">Read More</a>
+                    <div class="hero-search-wrap">
+                        <form class="mt-5">
+                            <div class="search-wrap">
+                                <input class="form-control" type="search" placeholder="Track Your Shipment" required>
+                                <button class="btn-default">Track</button>
+                            </div>
+                        </form>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="grid-section">
                     <div class="grid-img">
-                        <img src="assets/img/packing/Boxes%20available%20in-store.jpg" alt="">
+                        <img src="assets/img/pickups/ONE%20TIME%20PICKUP.jpg" alt="">
                     </div>
-                    <h4>RECURRING FEDEX PICKUP</h4>
+                    <h4>ONE TIME PICKUP</h4>
                     <p>
-                        Plan ahead for recurring
-                        delivery needs with a
-                        scheduled backup plan.
+                        Eliminate the waste of time
+                        by scheduling your pick online
+                        conveniently.
+
                     </p>
                 </div>
                 <div class="grid-btn-wrap">
-                    <a href="#" class="btn-default-round">Read More</a>
+                    <a href="#one-time-pickup" class="btn-default-round">Read More</a>
                 </div>
             </div>
             <div class="col-lg-4">
                 <div class="grid-section">
                     <div class="grid-img">
-                        <img src="assets/img/packing/Pick%20&%20ship%20servoces.jpg" alt="">
+                        <img src="assets/img/pickups/RECURRING%201IGS%20PICK%20UP.jpg" alt="">
                     </div>
-                    <h4>DROP OFF AT A FEDEX LOCATION</h4>
+                    <h4>RECURRING 1IGS PICK UP</h4>
                     <p>
-                        Get your shipment to us via
-                        thousands of conveniently
-                        located drop boxes open 24/7
+                        Create an account and sign up to
+                        receive 15% discount on recurring
+                        Delivery needs. Plan today.
+
                     </p>
                 </div>
                 <div class="grid-btn-wrap">
-                    <a href="#" class="btn-default-round">Read More</a>
+                    <a href="#recurring1IGS" class="btn-default-round">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section col-3-sec">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="grid-section">
+                    <div class="grid-img">
+                        <img src="assets/img/pickups/Ship%20like%20a%20pro.jpg" alt="">
+                    </div>
+                    <h4>SHIP LIKE A PRO</h4>
+                    <p>
+                        Get access to agility and speed
+                        with 1 stop shop tailored made
+                        feature offered only by My1IGS+.
+                    </p>
+                </div>
+                <div class="grid-btn-wrap">
+                    <a href="sign-in.php" class="btn-default-round">Login and Ship</a>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="grid-section">
+                    <div class="grid-img">
+                        <img src="assets/img/pickups/1IGS%20for%20Business.jpg" alt="">
+                    </div>
+                    <h4>1IGS FOR BUSINESS</h4>
+                    <p>
+                        Best in class rate, 1 portal and
+                        billing options second to none
+                        than 1IGS Express account.
+                    </p>
+                </div>
+                <div class="grid-btn-wrap">
+                    <a href="sign-up.php" class="btn-default-round">Open an Account</a>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="grid-section">
+                    <div class="grid-img">
+                        <img src="assets/img/pickups/Brand%20and%20we%20will%20pich%201.jpg" alt="">
+                    </div>
+                    <h4>CUSTOMS REGULATORY UPDATES</h4>
+                    <p>
+                        We are 100% custom complaint
+                        and will assist you stay up to date
+                        on important global regulations.
+                    </p>
+                </div>
+                <div class="grid-btn-wrap">
+                    <a href="sign-up.php" class="btn-default-round">View Updates</a>
                 </div>
             </div>
         </div>
@@ -93,54 +148,49 @@ include_once 'nav.php'
 
 <div class="section manage-deliveries">
     <div class="container">
-        <div class="row mb-5">
-            <div class="col-lg-5 bg-img custom-wooden"></div>
+        <div class="row mb-5" id="one-time-pickup">
+            <div class="col-lg-5 bg-img pick-img-1"></div>
             <div class="col-lg-7 grid-text">
                 <div class="grid-text-wrap">
                     <h3>
-                        One-time pickup
+                        One Time Pickup
                     </h3>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. A architecto atque debitis dolorem
-                        dolorum est ipsum itaque, magnam magni minima modi placeat praesentium quae quibusdam quidem
-                        sequi similique sunt voluptatem.
+                        Plan and book a one-time shipping pickup, and a
+                        1IGS driver will be on his way. Explore our pickup
+                        Application to learn more.
+                        <br><br>
+
+                        1. Create an account or login<br>
+                        2. Create a shipping label<br>
+                        3. Book your shipment pickup
+
                     </p>
                 </div>
 
-                <a class="btn-grid-round" href="sign-up.php">Sign Up</a>
+                <a class="btn-grid-round" href="ship-now.php">BOOK A FREIGHT PICKUP</a>
             </div>
         </div>
-        <div class="row flex-row-reverse mb-5">
-            <div class="col-lg-5 bg-img custom-wooden"></div>
+        <div class="row flex-row-reverse mb-5" id="recurring1IGS">
+            <div class="col-lg-5 bg-img pick-img-2"></div>
             <div class="col-lg-7 grid-text">
                 <div class="grid-text-wrap">
                     <h3>
-                        Recurring FedEx pickup
+                        Recurring 1IGS Pick
                     </h3>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus ad asperiores dolores eos et
-                        inventore iusto, minima necessitatibus, nemo, non quaerat quo recusandae reprehenderit sequi
-                        sit! Distinctio excepturi inventore nobis!
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad alias, amet, autem consequuntur
-                        corporis debitis doloremque earum exercitationem fugiat id minima nisi nobis non placeat quis
-                        quod soluta ullam vero.
-                    </p>
-                </div>
-
-                <a class="btn-grid-round" href="sign-up.php">Sign Up</a>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-5 bg-img custom-wooden"></div>
-            <div class="col-lg-7 grid-text">
-                <div class="grid-text-wrap">
-                    <h3>
-                        Drop off
-                    </h3>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus ad asperiores dolores eos et
-                        inventore iusto, minima necessitatibus, nemo, non quaerat quo recusandae reprehenderit sequi
-                        sit! Distinctio excepturi inventore nobis!
+                        Focus on your core business and let us worry
+                        about your shipments. Kick off by setting
+                        automated regular pick-ups, free express
+                        service and take advantage of our end to end
+                        picking and parking solutions. Let us save you
+                        time and money.
+                        <br><br>
+                        We are there for you even on rainy days.
+                        Contact your 1IGS account expert or call
+                        customer service on +1 800 1IGS expert
+                        +1 888.414.7941 to get help from an
+                        expert.
                     </p>
                 </div>
 
@@ -149,31 +199,6 @@ include_once 'nav.php'
         </div>
     </div>
 </div>
-
-<div class="section">
-    <div class="container">
-        <div class="p-bg">
-            <div class="p-text">
-                <h4 class="mb-4">Find your way with the <br>
-                    How to 1IGS Logistics App
-                </h4>
-                <p class="mb-4">
-                    Simply complete the simple order form
-                    and we will pick the items and pack them
-                    ready for shipping or event. Any remaining
-                    items will then be put back into storage until
-                    they are needed again. We also have an
-                    on-line inventory tool so you can access what
-                    we have in store at any point. Organizing your
-                    marketing materials with delivery direct to is
-                    only a click away.
-                </p>
-                <a href="#" class="btn-default-round">GET THE APP</a>
-            </div>
-        </div>
-    </div>
-</div>
-
 
 <?php
 include_once 'footer.php';

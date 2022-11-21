@@ -72,24 +72,35 @@ img {
 
 /*Navbar*/
 #nav-top{
-    z-index: 1030;
+    z-index: 1031;
     transition: all 0.5s;
     background: #F16231;
     position: fixed;
     width: 100%;
-    top: 70px;
+    top: 0;
     left: 0;
+    height: 50px !important;
+}
+#nav-top #nav{
+    padding: 0 !important;
 }
 .nav-link.nav-t-link{
     color: white !important;
 }
+.nav-link.nav-t-link:hover{
+    color: white !important;
+}
+.nt-search{
+    border-radius: 0;
+    border: 1px solid transparent;
+}
 .nav-container{
-    z-index: 1031;
+    z-index: 1030;
     transition: all 0.5s;
     background: white;
     position: fixed;
     width: 100%;
-    top: 0;
+    top: 50px;
     left: 0;
 }
 #nav{
@@ -206,9 +217,9 @@ ul li ul:hover {
 
 /*Banner*/
 .hero-container{
-    background-image: linear-gradient(to right, rgba(16, 26, 48,0.5), rgba(0,0,0,.6)) ,url("../img/Homepage/home-banner-bg.jpg");
+    background-image: linear-gradient(to right, rgba(16, 26, 48,0.6), rgba(0,0,0,.3)) ,url("../img/about-van.png");
     background-size: cover;
-    background-position: center top;
+    background-position: top center;
     height: 100vh;
     position: relative;
 }
@@ -494,7 +505,7 @@ div.radios-wrap{
     margin: auto;
 }
 .page-text-container{
-    background: rgba(255,255,255,.85);
+    background: rgba(255,255,255,.7);
     padding: 30px;
     max-width: 660px;
 }
@@ -1146,6 +1157,10 @@ div.radios-wrap{
     background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/fa-bg.jpg");
     background-position: center;
 }
+.pickup-banner{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/pickups/pickup-bg.jpg");
+    background-position: center;
+}
 .af-img{
     background-image: url("../img/air-fright.jpg");
     background-position: top right;
@@ -1397,7 +1412,32 @@ footer p{
     background-image: url("../img/packing/Simplifies your shipping planning .jpg");
 }
 
+
+.quote-text{
+    max-width: 800px;
+    margin: auto;
+}
+.drop{
+    background-image: url("../img/Drop-off/Agile and resilient.jpg");
+    background-position: top center;
+}
+.drop-img-1{
+    background-image: url("../img/Drop-off/drop-off-package.jpg");
+}
+.drop-img-2{
+    background-image: url("../img/Drop-off/Can 1IGS pick and pack_ .jpg");
+}
+.pick-img-1{
+    background-image: url("../img/pickups/One Time Pickup 02.jpg");
+}
+.pick-img-2{
+    background-image: url("../img/pickups/Recurring 1IGS Pick.jpg");
+}
+
 @media screen and (max-width: 991px) {
+    .nav-container{
+        top: 0;
+    }
     .navbar-nav li{
         display: block;
         width: 100%;
