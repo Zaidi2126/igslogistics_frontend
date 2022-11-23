@@ -28,7 +28,7 @@ include_once 'nav.php'
                     <h3>Overview
                     </h3>
                     <p>
-                        1We offer air freight forwarding to companies and individuals alike. If you’re looking for door
+                        We offer air freight forwarding to companies and individuals alike. If you’re looking for door
                         to door
                         service, utilizing our network of world-wide agents with whom we have had many years of working
                         together,

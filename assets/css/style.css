@@ -404,6 +404,32 @@ div.radios-wrap{
     height: fit-content;
     text-align: center;
 }
+.col-4-sec .row{
+    padding: 20px 0;
+}
+.col-4-sec .col-md-6{
+    margin-bottom: 20px !important;
+}
+.col-4-sec .grid-section{
+    background: white;
+    box-shadow: 0 0 5px 2px rgba(0,0,0,0.16);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.col-4-sec .grid-section .grid-icon{
+    color: #cc262b;
+    font-size: 24px;
+}
+.col-4-sec .grid-section h6{
+    color: #cc262b;
+    margin: 15px 0 !important;
+    font-weight: 600;
+}
+
 .btn-default-round{
     display: inline-block;
     color: #cc262b !important;
@@ -1433,6 +1459,60 @@ footer p{
 .pick-img-2{
     background-image: url("../img/pickups/Recurring 1IGS Pick.jpg");
 }
+.express{
+    background-image: url("../img/express/express-bg.jpg");
+    background-position: center top;
+}
+.supply{
+    background-image: url("../img/sc/sc-bg.jpg");
+    background-position: center left;
+}
+.global{
+    background-image: url("../img/gf/global-bg.jpg");
+    background-position: center left;
+}
+
+
+/*Tabs Section*/
+
+.tabs ul {
+    list-style-type: none !important;
+    padding: 0;
+    display: flex;
+}
+.tabs-nav li {
+    width: 25%;
+}
+.tabs-nav{
+    border-radius: 40px;
+    border: 1px solid #f4f4f4;
+}
+.tabs .tab-link {
+    color: #cc262b !important;
+    padding: 15px;
+    text-align: center;
+    border-radius: 40px;
+    transition: all 0.3s;
+    display: block;
+}
+.tabs .tab-link:hover {
+    font-weight: 600;
+}
+.tab-active .tab-link {
+    background: #cc262b;
+    color: white !important;
+    box-shadow: 0 0 20px 2px rgba(241,98,49, 0.5);
+    font-weight: 600;
+}
+.tabs-stage {
+    border-radius: 0 0 6px 6px;
+    border-top: 0;
+    clear: both;
+    padding: 20px 0;
+    position: relative;
+    top: -1px;
+}
+
 
 @media screen and (max-width: 991px) {
     .nav-container{
@@ -1528,6 +1608,16 @@ footer p{
     .ship-form-wrap .form-group label {
         min-width: 120px;
         padding-right: 5px;
+    }
+    .p-bg {
+         background-image: none;
+        padding: 0;
+    }
+    .tabs ul {
+        flex-wrap: wrap;
+    }
+    .tabs-nav li {
+        width: 50%;
     }
 }
 @media screen and (max-width: 560px){

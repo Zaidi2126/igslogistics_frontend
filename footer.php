@@ -15,36 +15,33 @@
                     <a href="#">Supplier Diversity</a>
                     <a href="#">Careers</a>
                     <a href="ship-now.php">Shipping</a>
-                    <a href="#">Tracking</a>
-                    <a href="#">Contact Us</a>
+                    <a href="track.php">Tracking</a>
+                    <a href="contact-us.php">Contact Us</a>
                 </div>
             </div>
             <div class="col-lg-2">
                 <h5 class="footer-heading">Our Divisions</h5>
                 <div class="footer-links">
-                    <a href="#">1IGS Express</a>
-                    <a href="#">1IGS Global Forwarding</a>
-                    <a href="#">1IGS Supply Chain</a>
+                    <a href="1IGS-express.php">1IGS Express</a>
+                    <a href="1IGS-global-forwarding.php">1IGS Global Forwarding</a>
+                    <a href="1IGS-supply-chain.php">1IGS Supply Chain</a>
                 </div>
             </div>
             <div class="col-lg-2">
                 <h5 class="footer-heading">Industry Sectors</h5>
                 <div class="footer-links">
-                    <a href="#">Auto Mobility</a>
-                    <a href="#">Chemical</a>
-                    <a href="#">Consumer</a>
-                    <a href="#">Energy</a>
-                    <a href="#">Engineering & Manufacturing</a>
-                    <a href="#">Life Sciences and Health Care</a>
-                    <a href="#">Public Sector</a>
-                    <a href="#">Retail</a>
-                    <a href="#">Technology</a>
+                    <a href="#">Logistics Procurement</a>
+                    <a href="#">Oil & Gas</a>
+                    <a href="#">Project Cargo</a>
+                    <a href="#">Mining & Infrastructure</a>
+                    <a href="#">Consumer Goods & Retail</a>
+                    <a href="#">Industrial Manufacturing</a>
                 </div>
             </div>
             <div class="col-lg-2">
                 <h5 class="footer-heading">Quick Links</h5>
                 <div class="footer-links">
-                    <a href="#">FAQs</a>
+                    <a href="#">Customer Service</a>
                     <a href="#">Privacy Policy</a>
                     <a href="#">Terms of Use</a>
                     <a href="#">Cookie Policy</a>
@@ -66,8 +63,8 @@
     <div class="footer-bottom">
         <div class="container">
             <div class="row">
-                <div class="col-lg-6">
-                    <div>© 2022 1IGS Logistics. All rights reserved</div>
+                <div class="col-lg-6" id="copyright">
+                    <div>© CurrentCopyrightYear 1IGS Logistics. All rights reserved</div>
                 </div>
                 <div class="col-lg-6">
                     <a href="#">Privacy Policy</a> |
@@ -77,3 +74,13 @@
         </div>
     </div>
 </footer>
+
+<script>
+    var dateNow = new Date();
+    var intYear = dateNow.getFullYear();
+
+    $('#copyright').each(function() {
+        var text = $(this).text();
+        $(this).text(text.replace('CurrentCopyrightYear', intYear));
+    });
+</script>
