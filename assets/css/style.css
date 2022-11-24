@@ -65,6 +65,10 @@ select:focus,
 .fw-500{
     font-weight: 500;
 }
+.mw-900{
+    max-width: 900px;
+    margin: auto;
+}
 
 img {
     width: 100%;
@@ -327,6 +331,7 @@ div.radios-wrap{
     text-transform: uppercase;
     display: inline-block;
     transition: all 0.3s;
+    text-transform: uppercase;
 }
 .btn-default:hover{
     background: linear-gradient(180deg, #F16231 0%, #CB2628 100%);
@@ -393,7 +398,9 @@ div.radios-wrap{
 .col-3-sec .row{
     overflow: initial;
 }
-.col-3-sec .col-lg-4{
+.col-3-sec .col-lg-4,
+.col-3-sec .col-md-6
+{
     position: relative;
 }
 .col-3-sec .grid-btn-wrap{
@@ -439,6 +446,7 @@ div.radios-wrap{
     box-shadow: 0 0 20px 2px rgba(241,98,49, 0.3);
     transition: all 0.3s;
     font-weight: 600;
+    text-transform: uppercase;
 }
 .btn-default-round:hover{
     background: #cc262b;
@@ -910,12 +918,12 @@ div.radios-wrap{
 }
 
 #main .card-header {
-    background: #1b1f26;
-
+    background: white;
+    /*border: 1px solid #dcdcdc;*/
 }
 
 #main .btn-header-link {
-    color: white !important;
+    color: #1b1f26 !important;
     /*font-size: 24px;*/
     letter-spacing: 1px;
     display: block;
@@ -935,7 +943,7 @@ div.radios-wrap{
     font-weight: 900;
     float: right;
     font-size: 12px;
-    color: white;
+    color: #1b1f26;
     margin-top: 5px;
 
 }
@@ -946,7 +954,7 @@ div.radios-wrap{
     font-weight: 900;
     float: right;
     font-size: 12px;
-    color: white;
+    color: #1b1f26;
     margin-top: 5px;
 }
 
@@ -1470,6 +1478,14 @@ footer p{
 .global{
     background-image: url("../img/gf/global-bg.jpg");
     background-position: center left;
+}
+.cl{
+    background-image: url("../img/cl/cl-bg.jpg");
+    background-position: center right;
+}
+.leadership-bg{
+    background-image: url("../img/cl/lead-bg.jpg");
+    background-position: center;
 }
 
 

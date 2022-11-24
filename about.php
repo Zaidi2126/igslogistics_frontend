@@ -58,8 +58,6 @@ include_once 'head.php'
                         consultants to do go work for our clients
                         <br><br>
                         Commit our firm and its team members to the highest Ethical and Professional standards.
-
-
                     </p>
                 </div>
             </div>

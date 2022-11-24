@@ -116,7 +116,7 @@
                                     <a href="about.php" class="nav-link">About 1IGS</a>
                                 </li>
                                 <li>
-                                    <a href="#" class="nav-link">Company Leadership</a>
+                                    <a href="company-leadership.php" class="nav-link">Company Leadership</a>
                                 </li>
                             </ul>
                         </li>

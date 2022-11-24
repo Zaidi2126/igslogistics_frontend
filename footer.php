@@ -10,10 +10,10 @@
                 <h5 class="footer-heading">Company</h5>
                 <div class="footer-links">
                     <a href="about.php">About Us</a>
-                    <a href="services.php">Products & Services</a>
-                    <a href="#">Sustainability</a>
-                    <a href="#">Supplier Diversity</a>
-                    <a href="#">Careers</a>
+                    <a href="company-leadership.php">Company Leadership</a>
+                    <a href="sustainability.php">Sustainability</a>
+                    <a href="supplier-diversity.php">Supplier Diversity</a>
+<!--                    <a href="#">Careers</a>-->
                     <a href="ship-now.php">Shipping</a>
                     <a href="track.php">Tracking</a>
                     <a href="contact-us.php">Contact Us</a>
