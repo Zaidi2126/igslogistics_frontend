@@ -2,16 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c831f0fa-c8eb-4b01-9e20-2d917a5abd64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/cl/cl-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/cl/lead-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/company-leadership.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supplier-diversity.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sustainability.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/lp/lp-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/lp/lp-1a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/lp/lp-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/lp/lp-3a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/lp/lp-3b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/lp/lp-3c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/lp/lp-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logistics-procurement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-cargo.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/m-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mi/m-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/m-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mi/m-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/m-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mi/m-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/m-banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mi/m-banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/m-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mi/m-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/m1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mi/m1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/m5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mi/m5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customs-clearance.php" beforeDir="false" afterPath="$PROJECT_DIR$/customs-clearance.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mining.php" beforeDir="false" afterPath="$PROJECT_DIR$/mining.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule-and-manage-pickups.php" beforeDir="false" afterPath="$PROJECT_DIR$/schedule-and-manage-pickups.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supplier-diversity.php" beforeDir="false" afterPath="$PROJECT_DIR$/supplier-diversity.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,16 +90,16 @@
     <session id="1153195413">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1328" />
+          <entry key="css" value="1673" />
           <entry key="html" value="101" />
-          <entry key="php" value="5005" />
+          <entry key="php" value="5854" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1328" />
+          <entry key="CSS" value="1673" />
           <entry key="HTML" value="101" />
-          <entry key="PHP" value="5005" />
+          <entry key="PHP" value="5854" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -93,7 +107,7 @@
           <entry key="html" value="2" />
           <entry key="jpg" value="2" />
           <entry key="js" value="1" />
-          <entry key="php" value="49" />
+          <entry key="php" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -101,87 +115,80 @@
           <entry key="HTML" value="2" />
           <entry key="Image" value="2" />
           <entry key="JavaScript" value="1" />
-          <entry key="PHP" value="49" />
+          <entry key="PHP" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="922" column="1" lean-forward="true" selection-start-line="922" selection-start-column="1" selection-end-line="922" selection-end-column="1" />
+            <state relative-caret-position="356">
+              <caret line="1537" column="31" selection-start-line="1537" selection-start-column="31" selection-end-line="1537" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/supplier-diversity.php">
+        <entry file="file://$PROJECT_DIR$/mining.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+            <state relative-caret-position="260">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sustainability.php">
+        <entry file="file://$PROJECT_DIR$/project-cargo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="164" column="25" lean-forward="true" selection-end-line="223" selection-end-column="7" />
+            <state relative-caret-position="140">
+              <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1IGS-express.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="276" selection-start-line="276" selection-end-line="297" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/customs-clearance.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="9" selection-start-line="9" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logistics-procurement.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="820">
+              <caret line="105" column="51" selection-end-line="209" selection-end-column="7" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#5;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/company-leadership.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="150" column="26" lean-forward="true" selection-end-line="187" selection-end-column="7" />
-              <folding>
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="587">
-              <caret line="59" column="111" selection-start-line="59" selection-start-column="111" selection-end-line="59" selection-end-column="111" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nav.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2360">
-              <caret line="118" column="67" selection-start-line="118" selection-start-column="67" selection-end-line="118" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -189,8 +196,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            <state relative-caret-position="400">
+              <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/schedule-and-manage-pickups.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="747">
+              <caret line="173" column="40" selection-start-line="173" selection-start-column="40" selection-end-line="173" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/supplier-diversity.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -206,13 +240,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>af-img</find>
-      <find>1igs ve</find>
-      <find>mb-4 mb-lg-0</find>
-      <find>1igs-a</find>
-      <find>gf-</find>
-      <find>page-banner</find>
-      <find>nav-con</find>
       <find>manage-delivery-2</find>
       <find>manage-delivery-1</find>
       <find>box3</find>
@@ -236,6 +263,13 @@
       <find>col-</find>
       <find>faq</find>
       <find>grid-sec</find>
+      <find>DHL</find>
+      <find>cl</find>
+      <find>lp</find>
+      <find>cc</find>
+      <find>.cc</find>
+      <find>col-lg</find>
+      <find>i-im</find>
     </findStrings>
     <replaceStrings>
       <replace>IGS</replace>
@@ -245,6 +279,7 @@
       <replace>ship-now</replace>
       <replace>0</replace>
       <replace>/h5</replace>
+      <replace>col-md</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -281,8 +316,6 @@
         <option value="$PROJECT_DIR$/road-freight.php" />
         <option value="$PROJECT_DIR$/general-freight.php" />
         <option value="$PROJECT_DIR$/fine-art.php" />
-        <option value="$PROJECT_DIR$/customs-clearance.php" />
-        <option value="$PROJECT_DIR$/mining.php" />
         <option value="$PROJECT_DIR$/nav1.php" />
         <option value="$PROJECT_DIR$/packing-cases-and-crates.php" />
         <option value="$PROJECT_DIR$/packing.php" />
@@ -291,16 +324,20 @@
         <option value="$PROJECT_DIR$/1IGS-express.php" />
         <option value="$PROJECT_DIR$/1IGS-supply-chain.php" />
         <option value="$PROJECT_DIR$/air-freight.php" />
-        <option value="$PROJECT_DIR$/schedule-and-manage-pickups.php" />
         <option value="$PROJECT_DIR$/script.php" />
         <option value="$PROJECT_DIR$/1IGS-global-forwarding.php" />
-        <option value="$PROJECT_DIR$/nav.php" />
         <option value="$PROJECT_DIR$/company-leadership.php" />
         <option value="$PROJECT_DIR$/sustainability.php" />
-        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/about.php" />
         <option value="$PROJECT_DIR$/supplier-diversity.php" />
+        <option value="$PROJECT_DIR$/schedule-and-manage-pickups.php" />
+        <option value="$PROJECT_DIR$/logistics-procurement.php" />
+        <option value="$PROJECT_DIR$/customs-clearance.php" />
+        <option value="$PROJECT_DIR$/nav.php" />
+        <option value="$PROJECT_DIR$/project-cargo.php" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/mining.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
       </list>
     </option>
   </component>
@@ -325,6 +362,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -337,11 +375,37 @@
               <item name="1IGSLogistics" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="1IGSLogistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1IGSLogistics" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1IGSLogistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1IGSLogistics" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="lp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1IGSLogistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1IGSLogistics" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="mi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1IGSLogistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1IGSLogistics" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="pc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -353,19 +417,19 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\pc" />
+      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\lp" />
+      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\cl" />
+      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\gf" />
+      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\sc" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\mi" />
       <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics" />
       <recent name="F:\New folder\htdocs\2022\Oct\IGSLogistics" />
       <recent name="F:\New folder\htdocs\2022\Oct\IGSLogistics\profile" />
       <recent name="F:\New folder\htdocs\2022\Oct\IGSLogistics\assets\img\Homepage" />
-      <recent name="F:\New folder\htdocs\2022\Oct\IGSLogistics\assets\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\cl" />
-      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\gf" />
-      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\sc" />
-      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\express" />
-      <recent name="F:\New folder\htdocs\2022\Nov\1IGSLogistics\assets\img\pickups" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -412,17 +476,17 @@
       <workItem from="1668686689141" duration="9104000" />
       <workItem from="1669103924064" duration="12482000" />
       <workItem from="1669197121116" duration="5363000" />
+      <workItem from="1669284400214" duration="11179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187635000" />
+    <option name="totallyTimeSpent" value="198814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="846" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19114688" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19382964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -450,10 +514,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/Homepage/shutterstock_57243907_tinted.jpg" />
-    <entry file="file://$PROJECT_DIR$/assets/img/Homepage/truck-vignette-gray.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/Homepage/multi-truck.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/img/oneigs-truck.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -562,20 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customs-clearance.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mining.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fine-art.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -624,13 +670,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manage-return.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="267" selection-start-line="267" selection-end-line="286" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/air-freight.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -659,45 +698,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schedule-and-manage-pickups.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4020">
-          <caret line="201" lean-forward="true" selection-start-line="201" selection-end-line="201" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1IGS-express.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5520">
-          <caret line="276" selection-start-line="276" selection-end-line="298" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1IGS-supply-chain.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="47">
           <caret line="63" selection-start-line="63" selection-end-line="113" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/company-leadership.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="150" column="26" lean-forward="true" selection-end-line="187" selection-end-column="7" />
-          <folding>
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2360">
-          <caret line="118" column="67" selection-start-line="118" selection-start-column="67" selection-end-line="118" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -715,28 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sustainability.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="164" column="25" lean-forward="true" selection-end-line="223" selection-end-column="7" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -748,30 +730,112 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
           <caret line="21" selection-start-line="21" selection-end-line="125" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company-leadership.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3000">
+          <caret line="150" column="26" lean-forward="true" selection-end-line="187" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
+        <state relative-caret-position="1180">
           <caret line="59" column="111" selection-start-line="59" selection-start-column="111" selection-end-line="59" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sustainability.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="170" column="25" lean-forward="true" selection-start-line="170" selection-start-column="25" selection-end-line="170" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage-return.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="288" selection-start-line="288" selection-end-line="306" selection-end-column="6" />
+          <folding>
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistics-procurement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="105" column="51" selection-end-line="209" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1IGS-express.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="276" selection-start-line="276" selection-end-line="297" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="95" column="37" selection-start-line="95" selection-start-column="37" selection-end-line="95" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/supplier-diversity.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+        <state relative-caret-position="416">
+          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project-cargo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="922" column="1" lean-forward="true" selection-start-line="922" selection-start-column="1" selection-end-line="922" selection-end-column="1" />
+        <state relative-caret-position="356">
+          <caret line="1537" column="31" selection-start-line="1537" selection-start-column="31" selection-end-line="1537" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mining.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customs-clearance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="9" selection-start-line="9" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="35" column="39" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schedule-and-manage-pickups.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="173" column="40" selection-start-line="173" selection-start-column="40" selection-end-line="173" selection-end-column="40" />
         </state>
       </provider>
     </entry>

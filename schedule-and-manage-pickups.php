@@ -164,14 +164,13 @@ include_once 'nav.php'
                         1. Create an account or login<br>
                         2. Create a shipping label<br>
                         3. Book your shipment pickup
-
                     </p>
                 </div>
 
                 <a class="btn-grid-round" href="ship-now.php">BOOK A FREIGHT PICKUP</a>
             </div>
         </div>
-        <div class="row flex-row-reverse mb-5" id="recurring1IGS">
+        <div class="row flex-row-reverse" id="recurring1IGS">
             <div class="col-lg-5 bg-img pick-img-2"></div>
             <div class="col-lg-7 grid-text">
                 <div class="grid-text-wrap">
@@ -193,7 +192,6 @@ include_once 'nav.php'
                         expert.
                     </p>
                 </div>
-
                 <a class="btn-grid-round" href="sign-up.php">Sign Up</a>
             </div>
         </div>

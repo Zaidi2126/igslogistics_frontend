@@ -86,13 +86,13 @@
                             </a>
                             <ul class="nav-dropdown nav-sub nd2">
                                 <li>
-                                    <a href="#" class="nav-link">Logistics Procurement</a>
+                                    <a href="logistics-procurement.php" class="nav-link">Logistics Procurement</a>
                                 </li>
                                 <li>
                                     <a href="#" class="nav-link">Oil & Gas</a>
                                 </li>
                                 <li>
-                                    <a href="#" class="nav-link">Project Cargo</a>
+                                    <a href="project-cargo.php" class="nav-link">Project Cargo</a>
                                 </li>
                                 <li>
                                     <a href="mining.php" class="nav-link">Mining & Infrastructure</a>

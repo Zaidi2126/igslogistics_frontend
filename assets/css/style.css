@@ -907,6 +907,7 @@ div.radios-wrap{
 #main .card {
     margin-bottom: 10px;
     background: transparent;
+    overflow: hidden;
 }
 
 #main .card-body {
@@ -919,7 +920,7 @@ div.radios-wrap{
 
 #main .card-header {
     background: white;
-    /*border: 1px solid #dcdcdc;*/
+    border: none;
 }
 
 #main .btn-header-link {
@@ -1221,6 +1222,7 @@ div.radios-wrap{
 }
 .cc{
     background-image: url("../img/cc-bg.jpg");
+    background-position: center;
 }
 .pc{
     background-image: url("../img/pc.jpg");
@@ -1241,30 +1243,7 @@ div.radios-wrap{
 .box3{
     background-image: url("../img/box3.jpg");
 }
-.m-banner{
-    background-image: url("../img/m-banner.jpg");
-    background-position: center;
-}
-.m-img{
-    background-image: url("../img/m-bg.jpg");
-}
-.m-1-bg{
-    background-image: url("../img/m1.jpg");
-    background-position: left center;
-}
-.m-2-bg{
-    background-image: url("../img/m-2.jpg");
-}
-.m-3-bg{
-    background-image: url("../img/m-3.jpg");
-}
-.m-4-bg{
-    background-image: url("../img/m-4.jpg");
-    background-position: right center;
-}
-.m-5-bg{
-    background-image: url("../img/m5.jpg");
-}
+
 .grid-text-section{
     padding: 50px;
     text-align: left;
@@ -1487,8 +1466,86 @@ footer p{
     background-image: url("../img/cl/lead-bg.jpg");
     background-position: center;
 }
+.lp{
+    background-image: url("../img/lp/lp-bg.jpg");
+    background-position: center top;
+}
 
-
+.industry-card{
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0.1rem 0.4rem 0 rgba(50, 50, 50, 0.5);
+    display: flex;
+    height: 100%;
+    position: relative;
+    z-index: 1;
+}
+.i-card-wrap{
+    width: 100%;
+    padding: 30px;
+}
+.i-img{
+    margin-left: -40px;
+    background-size: cover;
+    border-radius: 0 10px 10px 0;
+}
+.flex-row-reverse .i-img{
+    margin-left: 0;
+    margin-right: -40px;
+    border-radius: 10px 0 0 10px;
+}
+.lp-1{
+    background-image: url("../img/lp/lp-1a.jpg");
+    background-position: center;
+}
+.lp-2{
+    background-image: url("../img/lp/lp-2.jpg");
+    background-position: center bottom;
+}
+.lp-3a{
+    background-image: url("../img/lp/lp-3a.jpg");
+}
+.lp-3b{
+    background-image: url("../img/lp/lp-3b.jpg");
+}
+.lp-3c{
+    background-image: url("../img/lp/lp-3c.jpg");
+}
+.project-cargo{
+    background-image: url("../img/pc/pc-bg.jpg");
+}
+.pc-1a{
+    background-image: url("../img/pc/pc-1a.jpg");
+}
+.pc-1b{
+    background-image: url("../img/pc/pc-1b.jpg");
+}
+.pc-2{
+    background-image: url("../img/pc/pc-2.jpg");
+    background-position: 200px -50px;
+}
+.pc-3a{
+    background-image: url("../img/pc/pc-3a.jpg");
+}
+.pc-3b{
+    background-image: url("../img/pc/pc-3b.jpg");
+}
+.mining{
+    background-image: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/mi/m-banner.jpg");
+}
+.mi-1{
+    background-image: url("../img/mi/m-2.jpg");
+    background-position: center;
+}
+.mi-2{
+    background-image: url("../img/pc/pc-3b.jpg");
+}
+.mi-3a{
+    background-image: url("../img/mi/m-3.jpg");
+}
+.mi-3b{
+    background-image: url("../img/mi/m-4.jpg");
+}
 /*Tabs Section*/
 
 .tabs ul {
@@ -1579,6 +1636,9 @@ footer p{
     footer .footer-heading{
         width: fit-content;
         margin: 30px auto 5px !important;
+    }
+    .i-img{
+        display: none;
     }
 }
 @media screen and (max-width: 768px){

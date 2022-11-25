@@ -21,30 +21,32 @@ include_once 'nav.php'
 
 <div class="section bg-light">
     <div class="container">
+        <div class="row py-3">
+            <div class="col-lg-7 py-3">
+                <div class="industry-card">
+                    <div class="i-card-wrap">
+                        <h6 class="default-heading text-left text-red">
+                            FAST TRACKING CUSTOMS CLEARANCE FOR YOUR IMPORT AND EXPORT CARGO.
+                        </h6>
+                        <div>
+                            Customs clearance is a highly specialised field. To negotiate best outcomes for export and
+                            import cargo, an in-depth working knowledge of local in-country customs regulations, quarantine
+                            rules, currency and jurisdictional mining legislation and resource sector concessions is
+                            required.
+                            <br><br>
+                            With 1IGS you are guaranteed a logistics partner who is knowledgeable and confident with the
+                            experience to provide you with the right information to make informed decisions on how best to
+                            import or export your cargo, while fulfilling all statutory requirements.
+                            <br><br>
+                            Our alignment with the Foreign Corrupt Practice Act (FCPA) compliancy program means we adopt
+                            best practice procedure and policy, comply with all local laws and legislation and ensure you
+                            are not exposed to legal risk.
+                        </div>
 
-        <div class="row">
-            <div class="col-lg-6 bg-img cc"></div>
-            <div class="col-lg-6">
-                <div class="grid-text-section">
-                    <h4 class="default-heading text-red text-left">
-                        FAST TRACKING CUSTOMS CLEARANCE FOR YOUR IMPORT AND EXPORT CARGO.
-                    </h4>
-                    <div>
-                        Customs clearance is a highly specialised field. To negotiate best outcomes for export and
-                        import cargo, an in-depth working knowledge of local in-country customs regulations, quarantine
-                        rules, currency and jurisdictional mining legislation and resource sector concessions is
-                        required.
-                        <br><br>
-                        With 1IGS you are guaranteed a logistics partner who is knowledgeable and confident with the
-                        experience to provide you with the right information to make informed decisions on how best to
-                        import or export your cargo, while fulfilling all statutory requirements.
-                        <br><br>
-                        Our alignment with the Foreign Corrupt Practice Act (FCPA) compliancy program means we adopt
-                        best practice procedure and policy, comply with all local laws and legislation and ensure you
-                        are not exposed to legal risk.
                     </div>
                 </div>
             </div>
+            <div class="col-lg-5 i-img cc"></div>
         </div>
     </div>
 </div>

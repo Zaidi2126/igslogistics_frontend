@@ -30,10 +30,10 @@
             <div class="col-lg-2">
                 <h5 class="footer-heading">Industry Sectors</h5>
                 <div class="footer-links">
-                    <a href="#">Logistics Procurement</a>
+                    <a href="logistics-procurement.php">Logistics Procurement</a>
                     <a href="#">Oil & Gas</a>
-                    <a href="#">Project Cargo</a>
-                    <a href="#">Mining & Infrastructure</a>
+                    <a href="project-cargo.php">Project Cargo</a>
+                    <a href="mining.php">Mining & Infrastructure</a>
                     <a href="#">Consumer Goods & Retail</a>
                     <a href="#">Industrial Manufacturing</a>
                 </div>

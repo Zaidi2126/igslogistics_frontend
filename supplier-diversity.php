@@ -47,7 +47,7 @@ include_once 'nav.php'
                     </div>
                     <h4>Get Started Today!</h4>
                     <p>
-                        Learn how you can help your company stand out from the rest – by becoming part of the DHL Group
+                        Learn how you can help your company stand out from the rest – by becoming part of the 1IGS Group
                         Supplier Diversity Program.
                     </p>
                     <div class="grid-btn-wrap">
@@ -187,7 +187,7 @@ include_once 'nav.php'
                 <h4 class="mb-4">Contact Our Logistics Experts
                 </h4>
                 <p class="mb-4">
-                    Get in touch today and discover how DHL can help reduce the environmental impact of your supply
+                    Get in touch today and discover how 1IGS can help reduce the environmental impact of your supply
                     chain.
                 </p>
                 <a href="contact-us.php" class="btn-default-round">Contact Us</a>
