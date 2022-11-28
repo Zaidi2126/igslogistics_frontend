@@ -86,22 +86,22 @@
                             </a>
                             <ul class="nav-dropdown nav-sub nd2">
                                 <li>
-                                    <a href="logistics-procurement.php" class="nav-link">Logistics Procurement</a>
+                                    <a href="auto-mobility.php" class="nav-link">Auto-Mobility</a>
                                 </li>
                                 <li>
-                                    <a href="#" class="nav-link">Oil & Gas</a>
+                                    <a href="consumer-goods.php" class="nav-link">Consumer Goods</a>
                                 </li>
                                 <li>
-                                    <a href="project-cargo.php" class="nav-link">Project Cargo</a>
+                                    <a href="energy-chemicals-e&m.php" class="nav-link">Energy, Chemicals, Engineering and Manufacturing</a>
                                 </li>
                                 <li>
-                                    <a href="mining.php" class="nav-link">Mining & Infrastructure</a>
+                                    <a href="life-sciences-and-healthcare.php" class="nav-link">Life Sciences and Healthcare</a>
                                 </li>
                                 <li>
-                                    <a href="#" class="nav-link">Consumer Goods & Retail</a>
+                                    <a href="retail.php" class="nav-link">Retail</a>
                                 </li>
                                 <li>
-                                    <a href="#" class="nav-link">Industrial Manufacturing</a>
+                                    <a href="technology.php" class="nav-link">Technology</a>
                                 </li>
                             </ul>
                         </li>

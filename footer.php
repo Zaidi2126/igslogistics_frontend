@@ -25,17 +25,20 @@
                     <a href="1IGS-express.php">1IGS Express</a>
                     <a href="1IGS-global-forwarding.php">1IGS Global Forwarding</a>
                     <a href="1IGS-supply-chain.php">1IGS Supply Chain</a>
+                    <a href="1IGS-supply-chain.php">Other Global Divisions</a>
                 </div>
             </div>
             <div class="col-lg-2">
                 <h5 class="footer-heading">Industry Sectors</h5>
                 <div class="footer-links">
-                    <a href="logistics-procurement.php">Logistics Procurement</a>
-                    <a href="#">Oil & Gas</a>
-                    <a href="project-cargo.php">Project Cargo</a>
-                    <a href="mining.php">Mining & Infrastructure</a>
-                    <a href="#">Consumer Goods & Retail</a>
-                    <a href="#">Industrial Manufacturing</a>
+                    <a href="auto-mobility.php">Auto-Mobility</a>
+                    <a href="energy-chemicals-e&m.php">Chemicals</a>
+                    <a href="consumer-goods.php">Consumer</a>
+                    <a href="energy-chemicals-e&m.php">Energy</a>
+                    <a href="energy-chemicals-e&m.php">Engineering & Manufacturing</a>
+                    <a href="life-sciences-and-healthcare.php">Life Sciences & Health Care</a>
+                    <a href="retail.php">Retail</a>
+                    <a href="technology.php">Technology</a>
                 </div>
             </div>
             <div class="col-lg-2">

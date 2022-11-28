@@ -132,7 +132,7 @@
                                     <a href="#" class="nav-link">Project Cargo</a>
                                 </li>
                                 <li>
-                                    <a href="mining.php" class="nav-link">Mining & Infrastructure</a>
+                                    <a href="consumer-goods.php" class="nav-link">Mining & Infrastructure</a>
                                 </li>
                                 <li>
                                     <a href="#" class="nav-link">Consumer Goods & Retail</a>
