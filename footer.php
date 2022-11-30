@@ -25,7 +25,7 @@
                     <a href="1IGS-express.php">1IGS Express</a>
                     <a href="1IGS-global-forwarding.php">1IGS Global Forwarding</a>
                     <a href="1IGS-supply-chain.php">1IGS Supply Chain</a>
-                    <a href="1IGS-supply-chain.php">Other Global Divisions</a>
+                    <a href="other-global-division.php">Other Global Divisions</a>
                 </div>
             </div>
             <div class="col-lg-2">

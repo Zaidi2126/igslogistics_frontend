@@ -21,7 +21,18 @@ include_once 'nav.php'
 
 <div class="section col-4-sec">
     <div class="container">
-        <div class="row">
+        <div>
+            <h2 class="default-heading-2 text-red">
+                Sustainability
+            </h2>
+            <h4 class="sub-heading">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+            <p>
+                To maximize the value of your supply chain, you need a reliable logistics partner whose excellent
+                support is
+                available wherever you need it – whether that's locally or on the other side of the world.
+            </p>
+        </div>
+        <div class="row mt-5">
             <div class="col-lg-3 col-md-6">
                 <div class="grid-section">
                     <h4>100+ MILLION</h4>
@@ -65,135 +76,212 @@ include_once 'nav.php'
     </div>
 </div>
 
-
-<div class="section bg-light">
+<div class="section explore bg-light">
     <div class="container">
-        <h2 class="default-heading text-red">
-            Main Heading
+        <h2 class="default-heading-2 text-red">Heading</h2>
+        <div class="row py-3">
+            <div class="col-lg-4 col-md-6">
+                <div class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <h6 class="fw-600 text-red px-3 mt-3">Find out more aboutEmission friendly Freight solutions
+                            with GoGreen</h6>
+                        <div class="explore-text">
+                            Heading
+                        </div>
+                        <p class="f-14 f-400 px-3">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid corporis delectus et ipsa
+                            iusto neque officia quasi saepe totam veritatis? Aperiam architecto maiores necessitatibus
+                            numquam qui quibusdam recusandae, repellendus tempore?
+                        </p>
+                        <div class="p-3">
+                            <a href="#" class="btn-default w-100 text-center">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <h6 class="fw-600 text-red px-3 mt-3">Find out more aboutEmission friendly Freight solutions
+                            with GoGreen</h6>
+                        <div class="explore-text">
+                            Heading
+                        </div>
+                        <p class="f-14 f-400 px-3">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid corporis delectus et ipsa
+                            iusto neque officia quasi saepe totam veritatis? Aperiam architecto maiores necessitatibus
+                            numquam qui quibusdam recusandae, repellendus tempore?
+                        </p>
+                        <div class="p-3">
+                            <a href="#" class="btn-default w-100 text-center">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <h6 class="fw-600 text-red px-3 mt-3">Find out more aboutEmission friendly Freight solutions
+                            with GoGreen</h6>
+                        <div class="explore-text">
+                            Heading
+                        </div>
+                        <p class="f-14 f-400 px-3">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid corporis delectus et ipsa
+                            iusto neque officia quasi saepe totam veritatis? Aperiam architecto maiores necessitatibus
+                            numquam qui quibusdam recusandae, repellendus tempore?
+                        </p>
+                        <div class="p-3">
+                            <a href="#" class="btn-default w-100 text-center">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row py-3">
+            <div class="col-lg-4 col-md-6">
+                <div class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <h6 class="fw-600 text-red px-3 mt-3">Find out more aboutEmission friendly Freight solutions
+                            with GoGreen</h6>
+                        <div class="explore-text">
+                            Heading
+                        </div>
+                        <p class="f-14 f-400 px-3">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid corporis delectus et ipsa
+                            iusto neque officia quasi saepe totam veritatis? Aperiam architecto maiores necessitatibus
+                            numquam qui quibusdam recusandae, repellendus tempore?
+                        </p>
+                        <div class="p-3">
+                            <a href="#" class="btn-default w-100 text-center">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <h6 class="fw-600 text-red px-3 mt-3">Find out more aboutEmission friendly Freight solutions
+                            with GoGreen</h6>
+                        <div class="explore-text">
+                            Heading
+                        </div>
+                        <p class="f-14 f-400 px-3">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid corporis delectus et ipsa
+                            iusto neque officia quasi saepe totam veritatis? Aperiam architecto maiores necessitatibus
+                            numquam qui quibusdam recusandae, repellendus tempore?
+                        </p>
+                        <div class="p-3">
+                            <a href="#" class="btn-default w-100 text-center">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <h6 class="fw-600 text-red px-3 mt-3">Find out more aboutEmission friendly Freight solutions
+                            with GoGreen</h6>
+                        <div class="explore-text">
+                            Heading
+                        </div>
+                        <p class="f-14 f-400 px-3">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid corporis delectus et ipsa
+                            iusto neque officia quasi saepe totam veritatis? Aperiam architecto maiores necessitatibus
+                            numquam qui quibusdam recusandae, repellendus tempore?
+                        </p>
+                        <div class="p-3">
+                            <a href="#" class="btn-default w-100 text-center">Learn More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="discover-more mt-3">
+            <div class="discover-abs">
+                <div class="discover-wrap">
+                    <h4 class="default-heading-2 text-white">
+                        Contact Our Logistics Experts
+                    </h4>
+                    <p class="f-14 text-white">
+                        Get in touch today and discover how 1IGS can help reduce the environmental impact of your supply
+                        chain.
+                    </p>
+                    <div class="mt-3">
+                        <a class="btn-default" href="contact-us.php">Contact Us</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="container">
+        <h2 class="default-heading-2">
+            Why are we committed to sustainability?
         </h2>
-        <div class="row">
-            <div class="col-lg-4 col-md-6 mb-3">
-                <div class="grid-section">
-                    <div class="grid-img">
-                        <img src="assets/img/Homepage/dummy.jpg" alt="">
-                    </div>
-                    <h4>Heading</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci amet asperiores culpa
-                        dolorum enim et harum ipsa iusto, minima mollitia officiis qui, recusandae rem sapiente soluta
-                        tenetur vero vitae.
-                    </p>
-                    <a href="#" class="btn-default-round">Find a Location</a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-3">
-                <div class="grid-section">
-                    <div class="grid-img">
-                        <img src="assets/img/Homepage/dummy.jpg" alt="">
-                    </div>
-                    <h4>Heading</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci amet asperiores culpa
-                        dolorum enim et harum ipsa iusto, minima mollitia officiis qui, recusandae rem sapiente soluta
-                        tenetur vero vitae.
-                    </p>
-                    <a href="#" class="btn-default-round">Start Shipping</a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-3">
-                <div class="grid-section">
-                    <div class="grid-img">
-                        <img src="assets/img/Homepage/dummy.jpg" alt="">
-                    </div>
-                    <h4>Heading</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci amet asperiores culpa
-                        dolorum enim et harum ipsa iusto, minima mollitia officiis qui, recusandae rem sapiente soluta
-                        tenetur vero vitae.
-                    </p>
-                    <a href="#" class="btn-default-round">Start Tracking</a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-3">
-                <div class="grid-section">
-                    <div class="grid-img">
-                        <img src="assets/img/Homepage/dummy.jpg" alt="">
-                    </div>
-                    <h4>Heading</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci amet asperiores culpa
-                        dolorum enim et harum ipsa iusto, minima mollitia officiis qui, recusandae rem sapiente soluta
-                        tenetur vero vitae.
-                    </p>
-                    <a href="#" class="btn-default-round">Find a Location</a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-3">
-                <div class="grid-section">
-                    <div class="grid-img">
-                        <img src="assets/img/Homepage/dummy.jpg" alt="">
-                    </div>
-                    <h4>Heading</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci amet asperiores culpa
-                        dolorum enim et harum ipsa iusto, minima mollitia officiis qui, recusandae rem sapiente soluta
-                        tenetur vero vitae.
-                    </p>
-                    <a href="#" class="btn-default-round">Start Shipping</a>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6 mb-3">
-                <div class="grid-section">
-                    <div class="grid-img">
-                        <img src="assets/img/Homepage/dummy.jpg" alt="">
-                    </div>
-                    <h4>Heading</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci amet asperiores culpa
-                        dolorum enim et harum ipsa iusto, minima mollitia officiis qui, recusandae rem sapiente soluta
-                        tenetur vero vitae.
-                    </p>
-                    <a href="#" class="btn-default-round">Start Tracking</a>
-                </div>
-            </div>
-        </div>
+        <p>
+            Everything we do at Deutsche Post 1IGS serves one purpose: "Connecting People. Improving Lives." This guides
+            our efforts and sense of responsibility, underscores our values, focuses our mission, and creates long-term
+            value. Fulfilling our purpose requires us to make every dimension of our business sustainable.
+
+            To get there, we’re following a clear strategy – a roadmap to sustainability that keeps our eyes on three
+            key commitments: to environmental protection, social responsibility, and good governance.
+        </p>
     </div>
 </div>
 
-<div class="section manage-deliveries">
+<div class="section explore bg-light">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-5 bg-img packing-img-3"></div>
-            <div class="col-lg-7 grid-text">
-                <div class="grid-text-wrap">
-                    <h3>
-                        Why are we committed to sustainability?
-                    </h3>
-                    <p>
-                        Everything we do at Deutsche Post DHL serves one purpose: "Connecting People. Improving Lives."
-                        This guides our efforts and sense of responsibility, underscores our values, focuses our
-                        mission, and creates long-term value. Fulfilling our purpose requires us to make every dimension
-                        of our business sustainable.
-
-                    </p>
-                </div>
-                <a class="btn-grid-round" href="about.php">READ MORE ABOUT US</a>
+        <h2 class="default-heading-2 text-red">Heading</h2>
+        <div class="row py-3">
+            <div class="col-lg-3 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            Lead Logistics Partner
+                        </div>
+                    </div>
+                </a>
             </div>
-        </div>
-    </div>
-</div>
-
-<div class="section bg-light">
-    <div class="container">
-        <div class="p-bg">
-            <div class="p-text">
-                <h4 class="mb-4">Contact Our Logistics Experts
-                </h4>
-                <p class="mb-4">
-                    Get in touch today and discover how DHL can help reduce the environmental impact of your supply
-                    chain.
-                </p>
-                <a href="contact-us.php" class="btn-default-round">Contact Us</a>
+            <div class="col-lg-3 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            Lead Logistics Partner
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            Lead Logistics Partner
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            Lead Logistics Partner
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>

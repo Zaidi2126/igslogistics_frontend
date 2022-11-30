@@ -21,18 +21,19 @@ include_once 'nav.php'
 
 <div class="section col-4-sec">
     <div class="container">
-        <div class="text-center">
-            <h2 class="default-heading text-red">
+        <div>
+            <h2 class="default-heading-2 text-red">
                 1IGS Supply Chain
             </h2>
-            <h4 class="text-orange mb-3">World's leading contract logistics provider</h4>
+            <h4 class="sub-heading">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
             <p>
-                To maximize the value of your supply chain, you need a reliable logistics partner whose excellent support is
+                To maximize the value of your supply chain, you need a reliable logistics partner whose excellent
+                support is
                 available wherever you need it – whether that's locally or on the other side of the world.
             </p>
         </div>
 
-        <div class="row mt-5">
+        <div class="row mt-5 stats">
             <div class="col-lg-3 col-md-6">
                 <div class="grid-section">
                     <h4>53</h4>
@@ -61,98 +62,124 @@ include_once 'nav.php'
     </div>
 </div>
 
-<div class="section bg-light">
+<div class="section explore bg-light">
     <div class="container">
-        <h2 class="default-heading text-red">
-            Explore 1IGS Supply Chain
-        </h2>
-        <div class="row">
-            <div class="col-lg-4">
-                <div class="grid-section">
-                    <div class="grid-img">
-                        <img src="assets/img/Homepage/dummy.jpg" alt="">
+        <h2 class="default-heading-2 text-red">Heading</h2>
+        <div class="row py-3">
+            <div class="col-lg-4 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            Innovation at 1IGS Supply Chain
+                        </div>
+                        <p class="f-14 f-400 p-3">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid corporis delectus et ipsa
+                            iusto neque officia quasi saepe totam veritatis? Aperiam architecto maiores necessitatibus
+                            numquam qui quibusdam recusandae, repellendus tempore?
+                        </p>
                     </div>
-                    <h4>Heading</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci amet asperiores culpa
-                        dolorum enim et harum ipsa iusto, minima mollitia officiis qui, recusandae rem sapiente soluta
-                        tenetur vero vitae.
-                    </p>
-                    <a href="#" class="btn-default-round">Find a Location</a>
-                </div>
+                </a>
             </div>
-            <div class="col-lg-4">
-                <div class="grid-section">
-                    <div class="grid-img">
-                        <img src="assets/img/Homepage/dummy.jpg" alt="">
+            <div class="col-lg-4 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            Innovation at 1IGS Supply Chain
+                        </div>
+                        <p class="f-14 f-400 p-3">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid corporis delectus et ipsa
+                            iusto neque officia quasi saepe totam veritatis? Aperiam architecto maiores necessitatibus
+                            numquam qui quibusdam recusandae, repellendus tempore?
+                        </p>
                     </div>
-                    <h4>Heading</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci amet asperiores culpa
-                        dolorum enim et harum ipsa iusto, minima mollitia officiis qui, recusandae rem sapiente soluta
-                        tenetur vero vitae.
-                    </p>
-                    <a href="#" class="btn-default-round">Start Shipping</a>
-                </div>
+                </a>
             </div>
-            <div class="col-lg-4">
-                <div class="grid-section">
-                    <div class="grid-img">
-                        <img src="assets/img/Homepage/dummy.jpg" alt="">
+            <div class="col-lg-4 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            Innovation at 1IGS Supply Chain
+                        </div>
+                        <p class="f-14 f-400 p-3">
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid corporis delectus et ipsa
+                            iusto neque officia quasi saepe totam veritatis? Aperiam architecto maiores necessitatibus
+                            numquam qui quibusdam recusandae, repellendus tempore?
+                        </p>
                     </div>
-                    <h4>Heading</h4>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad adipisci amet asperiores culpa
-                        dolorum enim et harum ipsa iusto, minima mollitia officiis qui, recusandae rem sapiente soluta
-                        tenetur vero vitae.
-                    </p>
-                    <a href="#" class="btn-default-round">Start Tracking</a>
+                </a>
+            </div>
+        </div>
+
+        <div class="discover-more mt-3">
+            <div class="discover-abs">
+                <div class="discover-wrap">
+                    <h4 class="default-heading-2 text-white">
+                        Supercharge Your Supply Chain with Your #UltimateSidekick
+                    </h4>
+                    <div class="mt-3">
+                        <a class="btn-default" href="#">Learn More</a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="section manage-deliveries">
+<div class="section explore">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-5 bg-img packing-img-2"></div>
-            <div class="col-lg-7 grid-text">
-                <div class="grid-text-wrap">
-                    <h3>
-                        Heading
-                    </h3>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem harum illum ipsum nam
-                        nemo quisquam tenetur voluptas? Ab alias aliquid autem eaque facere magnam maxime nostrum
-                        officiis, omnis repellat. Temporibus.
-                    </p>
-                </div>
-                <a class="btn-grid-round" href="sign-up.php">OPEN AN ACCOUNT</a>
+        <h2 class="default-heading-2 text-red">Heading</h2>
+        <div class="row py-3">
+            <div class="col-lg-4 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            All Business. No Boundaries. A Collection of Supply Chain Stories
+                        <div class="mt-3">
+                            <button class="btn-default">Learn More</button>
+                        </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            All Business. No Boundaries. A Collection of Supply Chain Stories
+                        <div class="mt-3">
+                            <button class="btn-default">Learn More</button>
+                        </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <a href="#" class="explore-cont">
+                    <div class="w-100">
+                        <img src="assets/img/Homepage/dummy.jpg">
+                        <div class="explore-text">
+                            All Business. No Boundaries. A Collection of Supply Chain Stories
+                        <div class="mt-3">
+                            <button class="btn-default">Learn More</button>
+                        </div>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
 </div>
+
 
 <?php
 include_once 'footer.php';
 include_once 'script.php';
 ?>
-<script>
-    // Show the first tab by default
-    $('.tabs-stage .tab-wrap').hide();
-    $('.tabs-stage .tab-wrap:first').show();
-    $('.tabs-nav li:first').addClass('tab-active');
-
-    // Change tab class and display content
-    $('.tabs-nav a').on('click', function (event) {
-        event.preventDefault();
-        $('.tabs-nav li').removeClass('tab-active');
-        $(this).parent().addClass('tab-active');
-        $('.tabs-stage .tab-wrap').hide();
-        $($(this).attr('href')).show();
-    });
-</script>
 
 </body>
 </html>

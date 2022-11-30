@@ -31,96 +31,10 @@
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav ml-auto align-items-center">
                 <li class="position-relative">
-                    <button class="nav-link drop-btn">
-                        <span>Solutions</span>
+                    <button class="nav-link" data-toggle="modal" data-target="#solution-modal">
+                        <span>Enterprise Logistics Services</span>
                         <span class="nav-d-icon"><i class="fa fa-chevron-down"></i></span>
                     </button>
-                    <ul class="nav-dropdown">
-                        <li class="position-relative">
-                            <a class="nav-link drop-btn-sub">Products
-                                <span class="dropdown-icon">
-                                        <i class="fa fa-chevron-right"></i>
-                                </span>
-                            </a>
-                            <ul class="nav-dropdown nav-sub nd2">
-                                <li>
-                                    <a href="general-freight.php" class="nav-link">General Freight</a>
-                                </li>
-                                <li>
-                                    <a href="sea-freight.php" class="nav-link">Sea Freight</a>
-                                </li>
-                                <li>
-                                    <a href="air-freight.php" class="nav-link">Air Freight</a>
-                                </li>
-                                <li>
-                                    <a href="road-freight.php" class="nav-link">Overland Freight</a>
-                                </li>
-                                <li>
-                                    <a href="#" class="nav-link">Packing Cases & Crates</a>
-                                </li>
-                                <li>
-                                    <a href="customs-clearance.php" class="nav-link">Customs Clearance</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="position-relative">
-                            <a class="nav-link drop-btn-sub">Services
-                                <span class="dropdown-icon">
-                                        <i class="fa fa-chevron-right"></i>
-                                </span>
-                            </a>
-                            <ul class="nav-dropdown nav-sub nd2">
-                                <li>
-                                    <a href="#" class="nav-link">Conference & Exhibition </a>
-                                </li>
-                                <li>
-                                    <a href="fine-art.php" class="nav-link">Fine Arts</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="position-relative">
-                            <a class="nav-link drop-btn-sub">Industries
-                                <span class="dropdown-icon">
-                                        <i class="fa fa-chevron-right"></i>
-                                </span>
-                            </a>
-                            <ul class="nav-dropdown nav-sub nd2">
-                                <li>
-                                    <a href="auto-mobility.php" class="nav-link">Auto-Mobility</a>
-                                </li>
-                                <li>
-                                    <a href="consumer-goods.php" class="nav-link">Consumer Goods</a>
-                                </li>
-                                <li>
-                                    <a href="energy-chemicals-e&m.php" class="nav-link">Energy, Chemicals, Engineering and Manufacturing</a>
-                                </li>
-                                <li>
-                                    <a href="life-sciences-and-healthcare.php" class="nav-link">Life Sciences and Healthcare</a>
-                                </li>
-                                <li>
-                                    <a href="retail.php" class="nav-link">Retail</a>
-                                </li>
-                                <li>
-                                    <a href="technology.php" class="nav-link">Technology</a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="position-relative">
-                            <a class="nav-link drop-btn-sub">About Us
-                                <span class="dropdown-icon">
-                                        <i class="fa fa-chevron-right"></i>
-                                </span>
-                            </a>
-                            <ul class="nav-dropdown nav-sub nd2">
-                                <li>
-                                    <a href="about.php" class="nav-link">About 1IGS</a>
-                                </li>
-                                <li>
-                                    <a href="company-leadership.php" class="nav-link">Company Leadership</a>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
                 </li>
                 <li class="position-relative">
                     <button class="nav-link drop-button2">
@@ -130,13 +44,15 @@
                     <ul class="nav-dropdown" id="drop-2">
                         <li><a href="ship-now.php" class="nav-link">Create a Shipment</a></li>
                         <li><a href="get-a-quote.php" class="nav-link">Shipping Rates & Delivery</a></li>
-                        <li><a href="schedule-and-manage-pickups.php" class="nav-link">Schedule & Manage Pickups</a></li>
+                        <li><a href="schedule-and-manage-pickups.php" class="nav-link">Schedule & Manage Pickups</a>
+                        </li>
                         <li><a href="packing.php" class="nav-link">Packing & Shipping</a></li>
                         <li><a href="manage-return.php" class="nav-link">Manage Return</a></li>
+                        <li><a href="#" class="nav-link">All Shipping Services</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a href="track.php" class="nav-link">Track</a>
+                    <a href="#" data-toggle="modal" data-target="#track-modal" class="nav-link">Track</a>
                 </li>
                 <li class="position-relative">
                     <button class="nav-link drop-button2">
@@ -175,13 +91,13 @@
 
 <div class="d-none d-lg-block" id="nav-top">
     <nav class="navbar navbar-expand-lg navbar-dark h-100" id="nav">
-<!--        <div>-->
-<!--            <form>-->
-<!--                <div class="nav-top-search">-->
-<!--                    <input class="form-control nt-search" type="search" placeholder="search">-->
-<!--                </div>-->
-<!--            </form>-->
-<!--        </div>-->
+        <!--        <div>-->
+        <!--            <form>-->
+        <!--                <div class="nav-top-search">-->
+        <!--                    <input class="form-control nt-search" type="search" placeholder="search">-->
+        <!--                </div>-->
+        <!--            </form>-->
+        <!--        </div>-->
         <div class="d-lg-none">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar"
                     aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -223,4 +139,98 @@
             </ul>
         </div>
     </nav>
+</div>
+
+<!-- Solution Modal -->
+<div class="modal fade nav-modal" id="solution-modal" tabindex="-1" role="dialog" aria-labelledby="solution-modal"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body p-0">
+                <button type="button" class="close m-3" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 py-5">
+                            <div class="row nav-links-row">
+                                <div class="col-6">
+                                    <h6 class="default-heading-2">Products</h6>
+                                    <a href="general-freight.php" class="nav-link">General Freight</a>
+                                    <a href="sea-freight.php" class="nav-link">Sea Freight</a>
+                                    <a href="air-freight.php" class="nav-link">Air Freight</a>
+                                    <a href="road-freight.php" class="nav-link">Overland Freight</a>
+                                    <a href="#" class="nav-link">Packing Cases & Crates</a>
+                                    <a href="customs-clearance.php" class="nav-link">Customs Clearance</a>
+                                </div>
+                                <div class="col-6">
+                                    <h6 class="default-heading-2">Industries</h6>
+                                    <a href="auto-mobility.php" class="nav-link">Auto-Mobility</a>
+                                    <a href="consumer-goods.php" class="nav-link">Consumer Goods</a>
+                                    <a href="energy-chemicals-e&m.php" class="nav-link">Energy, Chemicals,
+                                        Engineering and Manufacturing</a>
+                                    <a href="life-sciences-and-healthcare.php" class="nav-link">Life Sciences
+                                        and Healthcare</a>
+                                    <a href="retail.php" class="nav-link">Retail</a>
+                                    <a href="technology.php" class="nav-link">Technology</a>
+                                </div>
+                                <div class="col-6">
+                                    <h6 class="default-heading-2">Solutions</h6>
+                                    <a href="#" class="nav-link">Services Logistics</a>
+                                    <a href="#" class="nav-link">Warehouse Solutions</a>
+                                    <a href="#" class="nav-link">Transport Solutions</a>
+                                    <a href="#" class="nav-link">Packaging Solutions</a>
+                                    <a href="#" class="nav-link">Leads Logistics Partner</a>
+                                    <a href="#" class="nav-link">E-commerce Fulfillment</a>
+                                </div>
+                                <div class="col-6">
+                                    <h6 class="default-heading-2">About Us</h6>
+                                    <a href="about.php" class="nav-link">About 1IGS</a>
+                                    <a href="company-leadership.php" class="nav-link">Company Leadership</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 solution-bg">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Track Modal -->
+<div class="modal fade nav-modal" id="track-modal" tabindex="-1" role="dialog" aria-labelledby="track-modal"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body p-0">
+                <button type="button" class="close m-3" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-6 py-5">
+                            <div class="track-modal-wrap">
+                                <h2 class="default-heading-2">Track your shipment</h2>
+                                <p class="mb-3">Find the status of your in transit shipment</p>
+                                <div class="hero-search-wrap">
+                                    <form>
+                                        <div class="search-wrap">
+                                            <input class="form-control" type="search" placeholder="Tracking ID" required>
+                                            <button class="btn-default">Track</button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 solution-bg">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
