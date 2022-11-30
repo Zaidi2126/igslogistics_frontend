@@ -176,12 +176,12 @@
                                 </div>
                                 <div class="col-6">
                                     <h6 class="default-heading-2">Solutions</h6>
-                                    <a href="#" class="nav-link">Services Logistics</a>
-                                    <a href="#" class="nav-link">Warehouse Solutions</a>
-                                    <a href="#" class="nav-link">Transport Solutions</a>
-                                    <a href="#" class="nav-link">Packaging Solutions</a>
-                                    <a href="#" class="nav-link">Leads Logistics Partner</a>
-                                    <a href="#" class="nav-link">E-commerce Fulfillment</a>
+                                    <a href="services-logistics.php" class="nav-link">Services Logistics</a>
+                                    <a href="warehousing.php" class="nav-link">Warehouse Solutions</a>
+                                    <a href="transport-solutions.php" class="nav-link">Transport Solutions</a>
+                                    <a href="packaging-solutions.php" class="nav-link">Packaging Solutions</a>
+                                    <a href="lead-logistics.php" class="nav-link">Lead Logistics Partner</a>
+                                    <a href="e-commerce-fulfillment.php" class="nav-link">E-commerce Fulfillment</a>
                                 </div>
                                 <div class="col-6">
                                     <h6 class="default-heading-2">About Us</h6>

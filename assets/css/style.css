@@ -476,6 +476,13 @@ div.radios-wrap{
     justify-content: center;
     height: 100%;
 }
+.capabilities.col-4-sec .grid-section{
+    justify-content: start;
+}
+.capabilities.col-4-sec .grid-section ul{
+    padding: 0;
+}
+
 .col-4-sec .grid-section .grid-icon{
     color: #cc262b;
     font-size: 24px;
