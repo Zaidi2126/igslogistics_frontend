@@ -812,7 +812,7 @@ div.radios-wrap{
     background-image: url("../img/modal-bg.png");
     background-size: cover;
     background-position: center;
-    padding: 100px 0 50px;
+    padding: 150px 0 50px;
 }
 .sign-in-img{
     background-image: url("../img/sign-form-bg.png");
@@ -1577,7 +1577,7 @@ a.explore-cont:hover{
 }
 
 .explore-cont img{
-    height: 180px;
+    height: 250px;
     object-fit: cover;
 }
 .explore-text{

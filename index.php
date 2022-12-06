@@ -57,11 +57,11 @@ include_once 'head.php'
     <div class="container">
         <h2 class="default-heading text-red">Manage all your shipments and returns here</h2>
         <div class="hero-radio-wrap content-radios">
-            <a href="#" class="radios-wrap">
+            <a href="drop-off-package.php" class="radios-wrap">
                 <img src="assets/img/Homepage/icon1.png" alt="">
                 <div>Drop Off a Package</div>
             </a>
-            <a href="#" class="radios-wrap">
+            <a href="redirect-a-package.php" class="radios-wrap">
                 <img src="assets/img/Homepage/icon2.png" alt="">
                 <div>Redirect a Package</div>
             </a>
@@ -69,11 +69,11 @@ include_once 'head.php'
                 <img src="assets/img/Homepage/icon3.png" alt="">
                 <div>WareHouse Hours & Services</div>
             </a>
-            <a href="#" class="radios-wrap">
+            <a href="services-alert.php" class="radios-wrap">
                 <img src="assets/img/Homepage/icon4.png" alt="">
                 <div>Services Alerts</div>
             </a>
-            <a href="#" class="radios-wrap">
+            <a href="manage-return.php" class="radios-wrap">
                 <img src="assets/img/Homepage/icon5.png" alt="">
                 <div>Return Package</div>
             </a>

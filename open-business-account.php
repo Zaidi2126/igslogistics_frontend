@@ -25,7 +25,7 @@ include_once 'nav.php'
                             </div>
 
                             <div class="form-wrap sign-up-wrap">
-                                <h2 class="default-heading">Sign Up</h2>
+                                <h2 class="default-heading">Open Business Account</h2>
                                 <h6>Welcome! Please enter your details</h6>
                                 <form action="" method="post" id="needs-validation" novalidate>
                                     <div class="container-fluid">
@@ -43,6 +43,15 @@ include_once 'nav.php'
                                                 <div class="form-group">
                                                     <label for="l-name">Last Name</label>
                                                     <input type="text" id="l-name" minlength="2" name="l-name" class="form-control" placeholder="Last Name" required>
+                                                    <div class="invalid-feedback">
+                                                        please enter a valid last name
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-12">
+                                                <div class="form-group">
+                                                    <label for="c-name">Company Name</label>
+                                                    <input type="text" id="c-name" minlength="2" name="c-name" class="form-control" placeholder="Company Name" required>
                                                     <div class="invalid-feedback">
                                                         please enter a valid last name
                                                     </div>
@@ -131,20 +140,32 @@ include_once 'nav.php'
                                             </div>
                                             <div class="col-12">
                                                 <div class="mt-4">
-                                                    <button type="submit" class="btn-default">Sign Up</button>
+                                                    <button type="submit" class="btn-default">Submit</button>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </form>
-
-                                <div class="mt-5 text-center">
-                                    Already have an account? <a href="sign-in.php" class="text-red fw-600">Sign In</a>
-                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 sign-in-img"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Thank you Modal -->
+<div class="modal fade popup-modal" id="thank-you-modal" tabindex="-1" role="dialog" aria-labelledby="thank-you-modal"
+     aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body p-0">
+                <div class="container">
+                    <div class="p-3">
+                        <h2 class="popup-heading">Thank You</h2>
+                        <p class="text-center">One of our Sales Representatives will contact you about your request.</p>
+                    </div>
                 </div>
             </div>
         </div>

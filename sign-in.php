@@ -69,7 +69,7 @@ include_once 'nav.php'
     </div>
 </div>
 
-<!-- Service Modal -->
+<!-- Forgot Password Modal -->
 <div class="modal fade popup-modal" id="forget-pass-modal" tabindex="-1" role="dialog" aria-labelledby="forget-pass-modal"
      aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
