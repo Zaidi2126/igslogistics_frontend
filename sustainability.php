@@ -292,21 +292,6 @@ include_once 'nav.php'
 include_once 'footer.php';
 include_once 'script.php';
 ?>
-<script>
-    // Show the first tab by default
-    $('.tabs-stage .tab-wrap').hide();
-    $('.tabs-stage .tab-wrap:first').show();
-    $('.tabs-nav li:first').addClass('tab-active');
-
-    // Change tab class and display content
-    $('.tabs-nav a').on('click', function (event) {
-        event.preventDefault();
-        $('.tabs-nav li').removeClass('tab-active');
-        $(this).parent().addClass('tab-active');
-        $('.tabs-stage .tab-wrap').hide();
-        $($(this).attr('href')).show();
-    });
-</script>
 
 </body>
 </html>

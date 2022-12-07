@@ -65,7 +65,7 @@ include_once 'head.php'
                 <img src="assets/img/Homepage/icon2.png" alt="">
                 <div>Redirect a Package</div>
             </a>
-            <a href="#" class="radios-wrap">
+            <a href="warehouse-hours.php" class="radios-wrap">
                 <img src="assets/img/Homepage/icon3.png" alt="">
                 <div>WareHouse Hours & Services</div>
             </a>

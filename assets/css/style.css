@@ -476,6 +476,9 @@ div.radios-wrap{
     justify-content: center;
     height: 100%;
 }
+.col-4-sec.capabilities .col-md-6{
+    margin-bottom: 30px;
+}
 .capabilities.col-4-sec .grid-section{
     justify-content: start;
 }
@@ -1762,6 +1765,12 @@ padding: 10px 20px;
 
 
 
+@media screen and (max-width: 1370px) {
+    .nav-dropdown {
+        right: 0;
+        left: auto;
+    }
+}
 @media screen and (max-width: 991px) {
     .nav-container{
         top: 0;

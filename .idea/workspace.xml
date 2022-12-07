@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c831f0fa-c8eb-4b01-9e20-2d917a5abd64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/open-business-account.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redirect-a-package.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services-alert.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage-return.php" beforeDir="false" afterPath="$PROJECT_DIR$/manage-return.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign-in.php" beforeDir="false" afterPath="$PROJECT_DIR$/sign-in.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign-up.php" beforeDir="false" afterPath="$PROJECT_DIR$/sign-up.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sustainability.php" beforeDir="false" afterPath="$PROJECT_DIR$/sustainability.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/warehouse-hours.php" beforeDir="false" afterPath="$PROJECT_DIR$/warehouse-hours.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,16 +70,16 @@
     <session id="1153195413">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2741" />
+          <entry key="css" value="2775" />
           <entry key="html" value="101" />
-          <entry key="php" value="9729" />
+          <entry key="php" value="9804" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2741" />
+          <entry key="CSS" value="2775" />
           <entry key="HTML" value="101" />
-          <entry key="PHP" value="9729" />
+          <entry key="PHP" value="9804" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -92,7 +87,7 @@
           <entry key="html" value="2" />
           <entry key="jpg" value="2" />
           <entry key="js" value="1" />
-          <entry key="php" value="105" />
+          <entry key="php" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -100,70 +95,52 @@
           <entry key="HTML" value="2" />
           <entry key="Image" value="2" />
           <entry key="JavaScript" value="1" />
-          <entry key="PHP" value="105" />
+          <entry key="PHP" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="11" />
           <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="1579" column="14" selection-start-line="1579" selection-start-column="14" selection-end-line="1579" selection-end-column="14" />
+            <state relative-caret-position="212">
+              <caret line="1767" column="34" selection-start-line="1767" selection-start-column="34" selection-end-line="1767" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services-alert.php">
+        <entry file="file://$PROJECT_DIR$/warehouse-hours.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="177" selection-end-column="6" />
-              <folding>
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="280">
+              <caret line="160" column="35" lean-forward="true" selection-start-line="160" selection-start-column="35" selection-end-line="160" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/services-logistics.php">
+        <entry file="file://$PROJECT_DIR$/sustainability.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="113" column="12" lean-forward="true" selection-start-line="113" selection-start-column="12" selection-end-line="152" selection-end-column="18" />
+            <state relative-caret-position="267">
+              <caret line="78" selection-start-line="78" selection-end-line="223" selection-end-column="6" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redirect-a-package.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="12" lean-forward="true" selection-end-line="271" selection-end-column="7" />
-              <folding>
-                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -172,29 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/manage-return.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2822">
-              <caret line="262" column="82" selection-start-line="262" selection-start-column="82" selection-end-line="262" selection-end-column="82" />
-              <folding>
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drop-off-package.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="96" column="40" lean-forward="true" selection-end-line="276" selection-end-column="7" />
+            <state relative-caret-position="180">
+              <caret line="75" column="60" lean-forward="true" selection-start-line="75" selection-start-column="60" selection-end-line="75" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -210,7 +166,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>lp</find>
       <find>cc</find>
       <find>.cc</find>
       <find>col-lg</find>
@@ -240,6 +195,7 @@
       <find>sign-in</find>
       <find>explore-cont</find>
       <find>fedex</find>
+      <find>capa</find>
     </findStrings>
     <replaceStrings>
       <replace>IGS</replace>
@@ -268,7 +224,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/email-templates/verification-code.html" />
         <option value="$PROJECT_DIR$/assets/road-freight.php" />
         <option value="$PROJECT_DIR$/sea-freight.php" />
         <option value="$PROJECT_DIR$/road-freight.php" />
@@ -303,7 +258,6 @@
         <option value="$PROJECT_DIR$/other-global-division.php" />
         <option value="$PROJECT_DIR$/1IGS-supply-chain.php" />
         <option value="$PROJECT_DIR$/supplier-diversity.php" />
-        <option value="$PROJECT_DIR$/sustainability.php" />
         <option value="$PROJECT_DIR$/warehousing.php" />
         <option value="$PROJECT_DIR$/services-logistics.php" />
         <option value="$PROJECT_DIR$/transport-solutions.php" />
@@ -315,10 +269,12 @@
         <option value="$PROJECT_DIR$/open-business-account.php" />
         <option value="$PROJECT_DIR$/sign-up.php" />
         <option value="$PROJECT_DIR$/redirect-a-package.php" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/services-alert.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/manage-return.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/sustainability.php" />
+        <option value="$PROJECT_DIR$/warehouse-hours.php" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -343,7 +299,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,6 +315,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -437,16 +393,18 @@
       <workItem from="1669741582812" duration="4463000" />
       <workItem from="1669799421907" duration="3740000" />
       <workItem from="1669880490731" duration="8187000" />
+      <workItem from="1670308690055" duration="1179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235165000" />
+    <option name="totallyTimeSpent" value="236344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="846" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25419182" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25754526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -474,13 +432,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/email-templates/verify-email.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="9" selection-end-line="36" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/profile-change-password.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -669,13 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sustainability.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4620">
-          <caret line="231" column="50" selection-start-line="231" selection-start-column="50" selection-end-line="231" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1IGS-supply-chain.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1280">
@@ -753,31 +697,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/drop-off-package.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="96" column="40" lean-forward="true" selection-end-line="276" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redirect-a-package.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="12" lean-forward="true" selection-end-line="271" selection-end-column="7" />
-          <folding>
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/supplier-diversity.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="180" column="6" lean-forward="true" selection-start-line="180" selection-start-column="6" selection-end-line="180" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -792,43 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services-logistics.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="113" column="12" lean-forward="true" selection-start-line="113" selection-start-column="12" selection-end-line="152" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="1579" column="14" selection-start-line="1579" selection-start-column="14" selection-end-line="1579" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="75" column="38" selection-start-line="75" selection-start-column="38" selection-end-line="75" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services-alert.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="177" selection-end-column="6" />
-          <folding>
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/auto-mobility.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -836,13 +722,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/services-logistics.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2260">
+          <caret line="113" column="12" selection-start-line="113" selection-start-column="12" selection-end-line="152" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redirect-a-package.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" selection-end-line="271" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drop-off-package.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="96" column="40" selection-end-line="276" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/manage-return.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2822">
+        <state relative-caret-position="627">
           <caret line="262" column="82" selection-start-line="262" selection-start-column="82" selection-end-line="262" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services-alert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="127" column="12" lean-forward="true" selection-end-line="231" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="75" column="60" lean-forward="true" selection-start-line="75" selection-start-column="60" selection-end-line="75" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sustainability.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="78" selection-start-line="78" selection-end-line="223" selection-end-column="6" />
           <folding>
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warehouse-hours.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="160" column="35" lean-forward="true" selection-start-line="160" selection-start-column="35" selection-end-line="160" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="1767" column="34" selection-start-line="1767" selection-start-column="34" selection-end-line="1767" selection-end-column="34" />
         </state>
       </provider>
     </entry>
