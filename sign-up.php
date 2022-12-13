@@ -70,7 +70,8 @@ include_once 'nav.php'
                                                 <div class="form-group">
                                                     <label for="country">Country</label>
                                                     <select class="custom-select" id="country" required>
-                                                        <option selected disabled value="USA">USA</option>
+                                                        <!-- <option selected disabled value="USA">USA</option> -->
+                                                        <option selected value="USA">USA</option>
                                                     </select>
                                                 </div>
                                             </div>
@@ -131,7 +132,7 @@ include_once 'nav.php'
                                             </div>
                                             <div class="col-12">
                                                 <div class="mt-4">
-                                                    <button type="submit" class="btn-default">Sign Up</button>
+                                                    <button type="submit" class="btn-default" onclick="signUp()">Sign Up</button>
                                                 </div>
                                             </div>
                                         </div>
