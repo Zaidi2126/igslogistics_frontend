@@ -11,7 +11,7 @@ include_once 'head.php'
 include_once 'nav.php'
 ?>
 
-<div class="gf-banner page-banner">
+<div class="gf-banner page-banner"> 
     <div class="page-banner-abs">
         <div class="page-banner-text-wrap">
             General Freight
